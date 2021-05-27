@@ -1,0 +1,89 @@
+Arquitectura
+Primer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR1013	Dibujo	4	0	8	3	4.7
+AR1014	Geometría descriptiva	3	0	8	3	3.5
+AR1019	Introducción a la arquitectura	3	0	4	1.5	3.5
+DL1002	Fundamentos del diseño I	4	0	8	3	4.7
+DL1008	Modelos y maquetas	3	0	8	3	3.5
+H1016	Lengua extranjera	5	0	8	3	3.5
+MA1009	Matemáticas para el diseño	3	0	8	3	3.5
+25	0	52	19.5	26.9
+Segundo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR1015	Dibujo arquitectónico	4	0	8	3	4.7
+AR1016	Geometría aplicada	3	0	8	3	3.5
+DL1004	Fundamentos del diseño II	4	0	8	3	4.7
+DL1009	Creatividad e innovación	3	0	8	3	3.5
+DS1003	Ciencias naturales y desarrollo sustentable	3	0	8	3	3.5
+H1040	Análisis y expresión verbal	5	0	8	3	5.8
+22	0	48	18	25.7
+Tercer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR1007	Historia de la arquitectura y de la ciudad I	3	0	8	3	3.5
+AR1017	Dibujo computarizado	3	0	8	3	3.5
+AR1018	Teorías de arquitectura y metodologías de diseño	3	0	8	3	3.5
+AR2017	Diseño bioclimático	3	0	8	3	3.5
+AR2018	Proyectos I: Casa habitación	6	0	12	4.5	7
+CV2024	Mecánica de estructuras I	3	0	8	3	3.5
+21	0	52	19.5	24.5
+Cuarto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR1010	Historia de la arquitectura y de la ciudad II	3	0	8	3	3.5
+AR2004	Visualización digital	3	0	8	3	3.5
+AR2019	Proyectos II: Vivienda colectiva	6	0	12	4.5	7
+CV2023	Materiales y procedimientos de construcción I	3	0	8	3	3.5
+CV2025	Mecánica de estructuras II	3	0	8	3	3.5
+H1018	Ética, persona y sociedad	3	0	8	3	3.5
+21	0	52	19.5	24.5
+Quinto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR2005	Historia de la arquitectura y de la ciudad III	3	0	8	3	3.5
+AR2020	Instalaciones y sistemas alternos	4	0	8	3	4.7
+AR2021	Materiales y procedimientos de construcción II	3	0	8	3	3.5
+AR2022	Proyectos III: Edificios de educación o recreación	6	0	12	4.5	7
+CV2026	Sistemas estructurales	3	0	8	3	3.5
+H2001	Expresión verbal en el ámbito profesional	3	0	8	3	3.5
+22	0	52	19.5	25.7
+Sexto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR2007	Historia de la arquitectura y de la ciudad IV	3	0	8	3	3.5
+AR2023	Proyectos constructivos I	6	0	12	4.5	7
+AR2024	Proyectos IV: Edificios comunitarios	6	0	12	4.5	7
+CV3017	Diseño de estructuras de concreto	3	0	8	3	3.5
+EM1005	Emprendimiento	3	0	8	3	3.5
+21	0	48	18	24.5
+Séptimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR2025	Análisis crítico de la arquitectura y su contexto	3	0	8	3	3.5
+AR2026	Proyectos constructivos II	6	0	12	4.5	7
+AR3014	Proyectos V: Conjuntos de usos mixtos	6	0	12	4.5	7
+CV2027	Costos de construcción	3	0	8	3	3.5
+CV3018	Diseño de estructuras de acero	3	0	8	3	3.5
+21	0	48	18	24.5
+Octavo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR3015	Edificación y eficiencia energética	3	0	8	3	3.5
+AR3016	Práctica profesional	3	0	8	3	3.5
+AR3017	Proyectos integradores I	6	0	12	4.5	7
+AR3018	Teorías urbanas	3	0	8	3	3.5
+CV2016	Administración de obras	3	0	8	3	3.5
+HS2005	Ciudadanía	3	0	8	3	3.5
+21	0	52	19.5	24.5
+Noveno Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR3006	Metodologías de diseño urbano	3	0	8	3	3.5
+AR3019	Proyectos inmobiliarios	3	0	8	3	3.5
+AR3020	Proyectos integradores II	6	0	12	4.5	7
+VA2010	Tópicos I	3	0	8	3
+VA2011	Tópicos II	3	0	8	3
+18	0	44	16.5	14
+Décimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR3021	Introducción a la vida profesional	2	0	2	.8	2.3
+AR3022	Proyecto de fin de carrera	8	0	16	6	9.3
+CV3022	Gestión empresarial de la industria de la construcción	3	0	8	3	3.5
+HS2006	Ética aplicada	3	0	8	3	3.5
+VA2012	Tópicos III	3	0	8	3
+VA2013	Tópicos IV	3	0	8	3
+22	0	50	18.8	18.6

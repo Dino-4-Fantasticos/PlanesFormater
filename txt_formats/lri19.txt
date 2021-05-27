@@ -1,0 +1,189 @@
+Licenciatura en Relaciones internacionales
+Primer Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EC1001B	Transformación del México contemporáneo
+9	3	8	3	3
+EG1001	Optativa de matemáticas y ciencias
+3	1	8	3	0
+MA1022	Pensamiento matemático I
+3	1	8	3	3
+P1010	Filosofía política para los dilemas contemporáneos
+3	1	2.7	1	1
+P1011	Introducción a las ciencias sociales
+3	1	5.3	2	2
+RI1001B	Desafíos globales
+9	3	8	3	3
+TC1001B	Principios de programación para las ciencias sociales
+9	3	8	3	3
+Segundo Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+D1001B	Introducción al derecho
+9	3	8	3	3
+EC1002B	Emprendimiento y tecnología para la transformación de México
+9	3	8	3	3
+EC1013	Macroeconomía
+3	1	2.7	1	1
+EC1014	Microeconomía
+3	1	5.3	2	2
+EG1002	Optativa de humanidades y bellas artes
+3	1	8	3	0
+MA1023	Métodos cuantitativos I
+3	1	5.3	2	2
+MA1024	Pensamiento matemático II
+3	1	2.7	1	1
+TC1002B	Herramientas tecnológicas para las ciencias sociales
+9	3	8	3	3
+Tercer Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EC1003B	Macroeconomía y desarrollo económico
+9	3	8	3	3
+EC1015	Economía conductual
+3	1	2.7	1	1
+EC1016	Economía para la toma de decisiones
+3	1	5.3	2	2
+EG1003	Optativa de ciencias sociales y del comportamiento
+3	1	8	3	0
+MA1025	Métodos cuantitativos II
+3	1	2.7	1	1
+MA1026	Pensamiento matemático III
+3	1	5.3	2	2
+P1001B	Participación política y sociología de la identidad
+9	3	8	3	3
+VA1001B	Tópico de exploración
+9	3	8	3	0
+Cuarto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1004	Optativa de liderazgo, emprendimiento e innovación
+3	1	8	3	0
+RI2001B	Análisis histórico del sistema internacional
+12	4	10.7	4	4
+RI2002B	Escenarios regionales en el mundo contemporáneo
+12	4	10.7	4	4
+RI2003B	Prospectiva sobre escenarios político-económicos internacionales
+12	4	10.7	4	4
+RI2039	Teorías clásicas de relaciones internacionales
+3	1	2.7	1	1
+RI2040	Teorías contemporáneas de relaciones internacionales
+3	1	5.3	2	2
+Quinto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1005	Optativa de ética y ciudadanía
+3	1	8	3	0
+RI2004B	Conflicto y negociación
+12	4	10.7	4	4
+RI2005B	Cooperación y gobernanza global
+12	4	10.7	4	4
+RI2006B	Gestión de bienes públicos globales en la sociedad de riesgo
+12	4	10.7	4	4
+RI2041	Aspectos jurídicos de las relaciones internacionales
+3	1	2.7	1	1
+RI2042	Organismos internacionales
+3	1	2.7	1	1
+RI2043	Riesgos y amenazas en la agenda global contemporánea
+3	1	2.7	1	1
+Sexto Semestre  (1)
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+VA3111	Tópicos I
+3	1	8	3	0
+VA3112	Tópicos II
+3	1	8	3	0
+VA3113	Tópicos III
+3	1	8	3	0
+VA3114	Tópicos IV
+3	1	8	3	0
+VA3115	Tópicos V
+3	1	8	3	0
+VA3116	Tópicos VI
+3	1	8	3	0
+Séptimo Semestre  (2)
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+OP3091	Optativa Profesional I
+3	1	8	3	0
+OP3092	Optativa Profesional II
+3	1	8	3	0
+OP3093	Optativa profesional III
+3	1	8	3	0
+OP3094	Optativa profesional IV
+3	1	8	3	0
+OP3095	Optativa profesional V
+3	1	8	3	0
+OP3096	Optativa profesional VI
+3	1	8	3	0
+Octavo Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+OP3001B	Optativa profesional multidisciplinaria
+18	6	16	6	0
+RI3002B	Análisis y estrategias de política exterior
+18	6	32	12	12

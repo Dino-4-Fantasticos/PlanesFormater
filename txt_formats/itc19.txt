@@ -1,0 +1,171 @@
+Ingeniería en Tecnologías Computacionales
+Primer Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1001	Optativa de matemáticas y ciencias
+3	1	8	3	0
+F1001B	Modelación de la ingeniería y ciencias
+9	3	8	3	3
+F1004B	Modelación computacional del movimiento
+9	3	8	3	3
+F1005B	Modelación computacional aplicando leyes de conservación
+9	3	8	3	3
+MA1028	Modelación matemática fundamental
+3	1	5.3	2	2
+Q1020	Análisis de la estructura y propiedades de la materia
+3	1	2.7	1	1
+TC1029	Pensamiento computacional y programación
+3	1	8	3	3
+Segundo Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+BT1013	Análisis de biología computacional
+3	1	2.7	1	1
+EG1002	Optativa de humanidades y bellas artes
+3	1	8	3	0
+F1008	Experimentación física y pensamiento estadístico
+3	1	2.7	1	1
+F1013B	Modelación computacional de sistemas eléctricos
+9	3	8	3	3
+F1014B	Modelación computacional de sistemas electromagnéticos
+9	3	8	3	3
+MA1029	Modelación matemática intermedia
+3	1	5.3	2	2
+MA1031	Análisis estadístico
+3	1	2.7	1	1
+TC1003B	Modelación de la ingeniería con matemática computacional
+9	3	8	3	3
+TC1030	Programación orientada a objetos
+3	1	2.7	1	1
+Tercer Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1003	Optativa de ciencias sociales y del comportamiento
+3	1	8	3	0
+MA1033	Análisis de ecuaciones diferenciales
+3	1	2.7	1	1
+TC1004B	Implementación de internet de las cosas
+9	3	16	6	6
+TC1031	Programación de estructuras de datos y algoritmos fundamentales
+3	1	8	3	3
+TC1032	Modelación de sistemas mínimos y arquitecturas computacionales
+3	1	2.7	1	1
+TI1015	Análisis de requerimientos de software
+3	1	2.7	1	1
+VA1001B	Tópico de exploración
+9	3	8	3	0
+Cuarto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1004	Optativa de liderazgo, emprendimiento e innovación
+3	1	8	3	0
+TC2005B	Construcción de software y toma de decisiones
+12	4	21.3	8	8
+TC2006B	Interconexión de dispositivos
+12	4	10.7	4	4
+TC2037	Implementación de métodos computacionales
+3	1	8	3	3
+Quinto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1005	Optativa de ética y ciudadanía
+3	1	8	3	0
+TC2007B	Integración de seguridad informática en redes y sistemas de software
+12	4	21.3	8	8
+TC2008B	Modelación de sistemas multiagentes con gráficas computacionales
+12	4	10.7	4	4
+TC2038	Análisis y diseño de algoritmos avanzados
+3	1	8	3	3
+Sexto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+TC3001B	Desarrollo de software
+18	6	48	18	18
+Séptimo Semestre  (1)
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+OP3091	Optativa Profesional I
+3	1	8	3	0
+OP3092	Optativa Profesional II
+3	1	8	3	0
+OP3093	Optativa profesional III
+3	1	8	3	0
+OP3094	Optativa profesional IV
+3	1	8	3	0
+OP3095	Optativa profesional V
+3	1	8	3	0
+OP3096	Optativa profesional VI
+3	1	8	3	0
+Octavo Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+OP3001B	Optativa profesional multidisciplinaria
+18	6	16	6	0
+TC3002B	Desarrollo de aplicaciones avanzadas de ciencias computacionales
+18	6	16	6	6
+TC3003B	Implementación de redes de área amplia y servicios distribuidos
+18	6	16	6	6
