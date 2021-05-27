@@ -1879,6 +1879,162 @@
     ]
   },
   {
+    "siglas": "IRS19",
+    "nombre": "Ingeniero en Robótica y Sistemas Digitales",
+    "esVigente": true,
+    "esTec21": true,
+    "materias": [
+      [
+        {
+          "clave": "EG1001"
+        },
+        {
+          "clave": "F1001B"
+        },
+        {
+          "clave": "F1004B"
+        },
+        {
+          "clave": "F1005B"
+        },
+        {
+          "clave": "MA1028"
+        },
+        {
+          "clave": "Q1020"
+        },
+        {
+          "clave": "TC1029"
+        }
+      ],
+      [
+        {
+          "clave": "BT1013"
+        },
+        {
+          "clave": "EG1002"
+        },
+        {
+          "clave": "F1008"
+        },
+        {
+          "clave": "F1013B"
+        },
+        {
+          "clave": "F1014B"
+        },
+        {
+          "clave": "MA1029"
+        },
+        {
+          "clave": "MA1031"
+        },
+        {
+          "clave": "TC1003B"
+        },
+        {
+          "clave": "TC1030"
+        }
+      ],
+      [
+        {
+          "clave": "EG1003"
+        },
+        {
+          "clave": "MA1033"
+        },
+        {
+          "clave": "TC1004B"
+        },
+        {
+          "clave": "TC1031"
+        },
+        {
+          "clave": "TC1032"
+        },
+        {
+          "clave": "TE1019"
+        },
+        {
+          "clave": "VA1001B"
+        }
+      ],
+      [
+        {
+          "clave": "EG1004"
+        },
+        {
+          "clave": "MA2016"
+        },
+        {
+          "clave": "TE2002B"
+        },
+        {
+          "clave": "TE2003B"
+        },
+        {
+          "clave": "TE2044"
+        },
+        {
+          "clave": "TE2045"
+        }
+      ],
+      [
+        {
+          "clave": "EG1005"
+        },
+        {
+          "clave": "MR2002B"
+        },
+        {
+          "clave": "TC2036"
+        },
+        {
+          "clave": "TE2004B"
+        },
+        {
+          "clave": "TE2046"
+        }
+      ],
+      [
+        {
+          "clave": "OP3091"
+        },
+        {
+          "clave": "OP3092"
+        },
+        {
+          "clave": "OP3093"
+        },
+        {
+          "clave": "OP3094"
+        },
+        {
+          "clave": "OP3095"
+        },
+        {
+          "clave": "OP3096"
+        }
+      ],
+      [
+        {
+          "clave": "TE3001B"
+        },
+        {
+          "clave": "TE3002B"
+        }
+      ],
+      [
+        {
+          "clave": "OP3001B"
+        },
+        {
+          "clave": "TE3003B"
+        }
+      ]
+    ]
+  },
+  {
     "siglas": "LAD11",
     "nombre": "Licenciado en Animación y Arte Digital",
     "esVigente": true,

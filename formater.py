@@ -169,7 +169,7 @@ def readTec21(file, nombre_plan):
 
 
 def read_samp_file():
-    global materias, claves_materias, planes_nombres, planes, materias_samp
+    global planes_nombres
 
     file_names = glob.glob("./txt_formats/*.txt")
 

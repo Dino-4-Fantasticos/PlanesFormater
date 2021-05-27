@@ -3556,6 +3556,123 @@
     "unidadesDeCarga": 2.3
   },
   {
+    "clave": "TE1019",
+    "nombre": "Fundamentación de ingeniería eléctrica y electrónica",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "MA2016",
+    "nombre": "Modelación matemática avanzada",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "TE2002B",
+    "nombre": "Diseño con lógica programable",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
+  },
+  {
+    "clave": "TE2003B",
+    "nombre": "Diseño de sistemas en chip",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 21.3,
+    "creditosAcademicos": 8.0,
+    "unidadesDeCarga": 8.0
+  },
+  {
+    "clave": "TE2044",
+    "nombre": "Fundamentación electrónica",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "TE2045",
+    "nombre": "Diseño de circuitos electrónicos",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "MR2002B",
+    "nombre": "Análisis de sistemas de control",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
+  },
+  {
+    "clave": "TC2036",
+    "nombre": "Implementación de redes seguras",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 5.3,
+    "creditosAcademicos": 2.0,
+    "unidadesDeCarga": 2.0
+  },
+  {
+    "clave": "TE2004B",
+    "nombre": "Diseño de sistemas embebidos avanzados",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 21.3,
+    "creditosAcademicos": 8.0,
+    "unidadesDeCarga": 8.0
+  },
+  {
+    "clave": "TE2046",
+    "nombre": "Análisis de señales y sistemas",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "TE3001B",
+    "nombre": "Fundamentación de robótica",
+    "horasClase": 18,
+    "horasLaboratorio": 6,
+    "unidades": 16.0,
+    "creditosAcademicos": 6.0,
+    "unidadesDeCarga": 6.0
+  },
+  {
+    "clave": "TE3002B",
+    "nombre": "Implementación de robótica inteligente",
+    "horasClase": 18,
+    "horasLaboratorio": 6,
+    "unidades": 32.0,
+    "creditosAcademicos": 12.0,
+    "unidadesDeCarga": 12.0
+  },
+  {
+    "clave": "TE3003B",
+    "nombre": "Integración de robótica y sistemas inteligentes",
+    "horasClase": 18,
+    "horasLaboratorio": 6,
+    "unidades": 32.0,
+    "creditosAcademicos": 12.0,
+    "unidadesDeCarga": 12.0
+  },
+  {
     "clave": "AT1003",
     "nombre": "Introducción a la carrera de LAD",
     "horasClase": 3,
