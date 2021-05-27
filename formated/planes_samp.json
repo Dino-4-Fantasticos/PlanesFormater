@@ -197,6 +197,197 @@
     ]
   },
   {
+    "siglas": "IMI10",
+    "nombre": "Ingeniero en Producción Musical Digital",
+    "esVigente": true,
+    "esTec21": false,
+    "materias": [
+      [
+        {
+          "clave": "AD1000"
+        },
+        {
+          "clave": "EH1005"
+        },
+        {
+          "clave": "F1002"
+        },
+        {
+          "clave": "H1017"
+        },
+        {
+          "clave": "H2000"
+        },
+        {
+          "clave": "IM1000"
+        },
+        {
+          "clave": "MA1002"
+        }
+      ],
+      [
+        {
+          "clave": "EC1001"
+        },
+        {
+          "clave": "F1003"
+        },
+        {
+          "clave": "H1014"
+        },
+        {
+          "clave": "H1016"
+        },
+        {
+          "clave": "H1031"
+        },
+        {
+          "clave": "MA1004"
+        }
+      ],
+      [
+        {
+          "clave": "F1004"
+        },
+        {
+          "clave": "H1018"
+        },
+        {
+          "clave": "H2029"
+        },
+        {
+          "clave": "IM2000"
+        },
+        {
+          "clave": "MA2002"
+        },
+        {
+          "clave": "TC1002"
+        }
+      ],
+      [
+        {
+          "clave": "AT2002"
+        },
+        {
+          "clave": "H2001"
+        },
+        {
+          "clave": "IB2001"
+        },
+        {
+          "clave": "IM2001"
+        },
+        {
+          "clave": "MA2001"
+        },
+        {
+          "clave": "TE1002"
+        }
+      ],
+      [
+        {
+          "clave": "AV1002"
+        },
+        {
+          "clave": "CF1007"
+        },
+        {
+          "clave": "F2009"
+        },
+        {
+          "clave": "H1029"
+        },
+        {
+          "clave": "TC3028"
+        },
+        {
+          "clave": "TE2001"
+        }
+      ],
+      [
+        {
+          "clave": "AV2001"
+        },
+        {
+          "clave": "EM1001"
+        },
+        {
+          "clave": "IM2002"
+        },
+        {
+          "clave": "MA1000"
+        },
+        {
+          "clave": "MT1001"
+        },
+        {
+          "clave": "TE1003"
+        }
+      ],
+      [
+        {
+          "clave": "AD3016"
+        },
+        {
+          "clave": "HS2009"
+        },
+        {
+          "clave": "IM2003"
+        },
+        {
+          "clave": "IM3000"
+        },
+        {
+          "clave": "IM3001"
+        },
+        {
+          "clave": "IN2006"
+        }
+      ],
+      [
+        {
+          "clave": "H2002"
+        },
+        {
+          "clave": "IM3002"
+        },
+        {
+          "clave": "IM3003"
+        },
+        {
+          "clave": "VA2010"
+        },
+        {
+          "clave": "VA2011"
+        },
+        {
+          "clave": "VA2012"
+        }
+      ],
+      [
+        {
+          "clave": "CO3003"
+        },
+        {
+          "clave": "IM3004"
+        },
+        {
+          "clave": "IM3005"
+        },
+        {
+          "clave": "VA2013"
+        },
+        {
+          "clave": "VA2014"
+        },
+        {
+          "clave": "VA2015"
+        }
+      ]
+    ]
+  },
+  {
     "siglas": "LRI11",
     "nombre": "Licenciado en Relaciones Internacionales",
     "esVigente": true,

@@ -507,6 +507,383 @@
     "creditosAcademicos": 3.0
   },
   {
+    "clave": "AD1000",
+    "nombre": "Administración",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EH1005",
+    "nombre": "Música y sociedad",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1017",
+    "nombre": "Taller de análisis y expresión verbal",
+    "horasClase": 5,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0
+  },
+  {
+    "clave": "H2000",
+    "nombre": "Teoría de la música y solfeo",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM1000",
+    "nombre": "Introducción a la carrera de IMI",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
+  },
+  {
+    "clave": "MA1002",
+    "nombre": "Matemáticas para ingeniería I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EC1001",
+    "nombre": "Economía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1014",
+    "nombre": "Apreciación musical I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1031",
+    "nombre": "Arte y cultura contemporánea",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA1004",
+    "nombre": "Matemáticas para ingeniería II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "F1004",
+    "nombre": "Electricidad y magnetismo",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "H2029",
+    "nombre": "Apreciación musical II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2000",
+    "nombre": "Taller de entrenamiento auditivo e instrumental",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "MA2002",
+    "nombre": "Matemáticas para ingeniería III",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1002",
+    "nombre": "Fundamentos de programación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT2002",
+    "nombre": "Teoría y práctica del sonido",
+    "horasClase": 2,
+    "horasLaboratorio": 2,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "IB2001",
+    "nombre": "Ciencia, tecnología y desarrollo sostenible",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2001",
+    "nombre": "Programación de audio",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA2001",
+    "nombre": "Ecuaciones diferenciales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE1002",
+    "nombre": "Circuitos eléctricos I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AV1002",
+    "nombre": "Lenguaje audiovisual",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "CF1007",
+    "nombre": "Contabilidad y administración de costos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1029",
+    "nombre": "Semiótica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC3028",
+    "nombre": "Interfaces físicas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE2001",
+    "nombre": "Circuitos eléctricos II",
+    "horasClase": 3,
+    "horasLaboratorio": 2,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 5.8
+  },
+  {
+    "clave": "AV2001",
+    "nombre": "Producción audiovisual",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EM1001",
+    "nombre": "Desarrollo de emprendedores",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2002",
+    "nombre": "Sistemas MIDI",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA1000",
+    "nombre": "Estadística I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MT1001",
+    "nombre": "Mercadotecnia",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AD3016",
+    "nombre": "Negocios en la industria de la música",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "HS2009",
+    "nombre": "Perspectiva sociopolítica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2003",
+    "nombre": "Ingeniería de audio",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3000",
+    "nombre": "Sistemas de audio digital para web y dispositivos móviles",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3001",
+    "nombre": "Taller de composición y arreglo digital",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "IN2006",
+    "nombre": "Ingeniería de proyectos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H2002",
+    "nombre": "Ética, profesión y ciudadanía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3002",
+    "nombre": "Taller de producción y mezcla digital",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "IM3003",
+    "nombre": "Técnicas de grabación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "CO3003",
+    "nombre": "Comunicación publicitaria",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3004",
+    "nombre": "Taller de postproducción y masterización digital",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "IM3005",
+    "nombre": "Proyecto de producción musical",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
     "clave": "MA1016",
     "nombre": "Matemáticas I",
     "horasClase": 3,
@@ -2351,15 +2728,6 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "TE1002",
-    "nombre": "Circuitos eléctricos I",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.5
-  },
-  {
     "clave": "CV2030",
     "nombre": "Uso sustentable del agua I",
     "horasClase": 3,
@@ -3352,15 +3720,6 @@
   {
     "clave": "AT3003",
     "nombre": "Producción de efectos visuales para medios digitales",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.5
-  },
-  {
-    "clave": "TC3028",
-    "nombre": "Interfaces físicas",
     "horasClase": 3,
     "horasLaboratorio": 0,
     "unidades": 8.0,

@@ -1845,15 +1845,6 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "H1031",
-    "nombre": "Arte y cultura contemporánea",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8,
-    "creditosAcademicos": 8,
-    "unidadesDeCarga": 3.5
-  },
-  {
     "clave": "MT2019",
     "nombre": "Publicidad y medios interactivos",
     "horasClase": 3,

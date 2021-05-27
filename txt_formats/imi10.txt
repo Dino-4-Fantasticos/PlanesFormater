@@ -1,0 +1,83 @@
+Ingeniero en Producción Musical Digital
+Primer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AD1000	Administración	3	0	8	3	3.5
+EH1005	Música y sociedad	3	0	8	3	3.5
+F1002	Física I	3	1	8	3	4.7
+H1017	Taller de análisis y expresión verbal	5	0	8	3
+H2000	Teoría de la música y solfeo	3	0	8	3	3.5
+IM1000	Introducción a la carrera de IMI	2	0	2	.8	2.3
+MA1002	Matemáticas para ingeniería I	3	0	8	3	3.5
+22	1	50	18.8	21
+Segundo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+EC1001	Economía	3	0	8	3	3.5
+F1003	Física II	3	1	8	3	4.7
+H1014	Apreciación musical I	3	0	8	3	3.5
+H1016	Lengua extranjera	5	0	8	3	3.5
+H1031	Arte y cultura contemporánea	3	0	8	3	3.5
+MA1004	Matemáticas para ingeniería II	3	0	8	3	3.5
+20	1	48	18	22.2
+Tercer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+F1004	Electricidad y magnetismo	3	1	8	3	4.7
+H1018	Ética, persona y sociedad	3	0	8	3	3.5
+H2029	Apreciación musical II	3	0	8	3	3.5
+IM2000	Taller de entrenamiento auditivo e instrumental	4	0	8	3	4.7
+MA2002	Matemáticas para ingeniería III	3	0	8	3	3.5
+TC1002	Fundamentos de programación	3	0	8	3	3.5
+19	1	48	18	23.4
+Cuarto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AT2002	Teoría y práctica del sonido	2	2	8	3	4.7
+H2001	Expresión verbal en el ámbito profesional	3	0	8	3	3.5
+IB2001	Ciencia, tecnología y desarrollo sostenible	3	0	8	3	3.5
+IM2001	Programación de audio	3	0	8	3	3.5
+MA2001	Ecuaciones diferenciales	3	0	8	3	3.5
+TE1002	Circuitos eléctricos I	3	0	8	3	3.5
+17	2	48	18	22.2
+Quinto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AV1002	Lenguaje audiovisual	3	0	8	3	3.5
+CF1007	Contabilidad y administración de costos	3	0	8	3	3.5
+F2009	Acústica	3	0	8	3	3.5
+H1029	Semiótica	3	0	8	3	3.5
+TC3028	Interfaces físicas	3	0	8	3	3.5
+TE2001	Circuitos eléctricos II	3	2	8	3	5.8
+18	2	48	18	23.3
+Sexto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AV2001	Producción audiovisual	3	0	8	3	3.5
+EM1001	Desarrollo de emprendedores	3	0	8	3	3.5
+IM2002	Sistemas MIDI	3	0	8	3	3.5
+MA1000	Estadística I	3	0	8	3	3.5
+MT1001	Mercadotecnia	3	0	8	3	3.5
+TE1003	Electrónica	3	0	8	3	3.5
+18	0	48	18	21
+Séptimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AD3016	Negocios en la industria de la música	3	0	8	3	3.5
+HS2009	Perspectiva sociopolítica	3	0	8	3	3.5
+IM2003	Ingeniería de audio	3	0	8	3	3.5
+IM3000	Sistemas de audio digital para web y dispositivos móviles	3	0	8	3	3.5
+IM3001	Taller de composición y arreglo digital	4	0	8	3	4.7
+IN2006	Ingeniería de proyectos	3	0	8	3	3.5
+19	0	48	18	22.2
+Octavo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+H2002	Ética, profesión y ciudadanía	3	0	8	3	3.5
+IM3002	Taller de producción y mezcla digital	4	0	8	3	4.7
+IM3003	Técnicas de grabación	3	0	8	3	3.5
+VA2010	Tópicos I	3	0	8	3
+VA2011	Tópicos II	3	0	8	3
+VA2012	Tópicos III	3	0	8	3
+19	0	48	18	11.7
+Noveno Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+CO3003	Comunicación publicitaria	3	0	8	3	3.5
+IM3004	Taller de postproducción y masterización digital	4	0	8	3	4.7
+IM3005	Proyecto de producción musical	3	0	8	3	3.5
+VA2013	Tópicos IV	3	0	8	3
+VA2014	Tópicos V	3	0	8	3
+VA2015	Tópicos VI	3	0	8	3
+19	0	48	18	11.7

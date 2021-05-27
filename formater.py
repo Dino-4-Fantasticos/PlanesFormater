@@ -112,7 +112,11 @@ def readTec20(file, nombre_plan):
                 plan["materias"].append(materias_semestre)
             materias_semestre = []
 
-        elif "Clave\tNombre" not in line and line[0].isalpha() and "Code\tName" not in line:
+        elif (
+            "Clave\tNombre" not in line
+            and line[0].isalpha()
+            and "Code\tName" not in line
+        ):
             generate_json(line, materias_semestre)
 
         line = file.readline()
@@ -172,7 +176,9 @@ def read_samp_file():
     for file_name in file_names:
         file = open(file_name, "r")
 
-        nombre_plan = file_name.replace(".txt", "").replace("./txt_formats/", "").upper()
+        nombre_plan = (
+            file_name.replace(".txt", "").replace("./txt_formats/", "").upper()
+        )
 
         if nombre_plan in planes_nombres:
             continue
@@ -197,4 +203,6 @@ read_file()
 write_samp_file()
 write_file()
 
-print("Ganamos")
+print("Si lees esto es porque todo salió bien")
+print('Por cierto no vayas a leer donde dice "guapo el que lo lea"')
+print("AJSAJKSDLJSFLDA ya lo leíste, guapo xD")
