@@ -1259,7 +1259,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1001B",
@@ -1268,7 +1273,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1006B",
@@ -1277,7 +1287,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1007B",
@@ -1286,7 +1301,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1028",
@@ -1295,7 +1315,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "Q1019",
@@ -1304,7 +1329,12 @@
     "horasLaboratorio": 2,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1028",
@@ -1313,7 +1343,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EG1002",
@@ -1322,7 +1357,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1008",
@@ -1331,7 +1371,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1015B",
@@ -1340,7 +1385,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1016B",
@@ -1349,7 +1399,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1017B",
@@ -1358,7 +1413,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1029",
@@ -1367,7 +1427,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1030",
@@ -1376,7 +1441,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1031",
@@ -1385,7 +1455,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "Q1021",
@@ -1394,7 +1469,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EG1003",
@@ -1403,7 +1483,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN1001B",
@@ -1412,7 +1497,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN1002B",
@@ -1421,7 +1511,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "M1011",
@@ -1430,7 +1525,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1034",
@@ -1438,7 +1538,12 @@
     "horasClase": 3,
     "horasLaboratorio": 1,
     "unidades": 2.7,
-    "creditosAcademicos": 1.0
+    "creditosAcademicos": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1035",
@@ -1447,7 +1552,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE1020",
@@ -1456,7 +1566,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "VA1001B",
@@ -1465,7 +1580,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EG1004",
@@ -1474,7 +1594,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2001B",
@@ -1483,7 +1608,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2002B",
@@ -1492,7 +1622,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2003B",
@@ -1501,7 +1636,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2032",
@@ -1510,7 +1650,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2037",
@@ -1519,7 +1664,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2038",
@@ -1528,7 +1678,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EG1005",
@@ -1537,7 +1692,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2004B",
@@ -1546,7 +1706,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2005B",
@@ -1555,7 +1720,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2006B",
@@ -1564,7 +1734,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2039",
@@ -1573,7 +1748,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2040",
@@ -1582,7 +1762,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2041",
@@ -1591,7 +1776,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2007B",
@@ -1600,7 +1790,12 @@
     "horasLaboratorio": 5,
     "unidades": 13.3,
     "creditosAcademicos": 5.0,
-    "unidadesDeCarga": 5.0
+    "unidadesDeCarga": 5.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2008B",
@@ -1609,7 +1804,12 @@
     "horasLaboratorio": 5,
     "unidades": 13.3,
     "creditosAcademicos": 5.0,
-    "unidadesDeCarga": 5.0
+    "unidadesDeCarga": 5.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2009B",
@@ -1618,7 +1818,12 @@
     "horasLaboratorio": 5,
     "unidades": 13.3,
     "creditosAcademicos": 5.0,
-    "unidadesDeCarga": 5.0
+    "unidadesDeCarga": 5.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2042",
@@ -1627,7 +1832,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2043",
@@ -1636,7 +1846,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN2044",
@@ -1645,7 +1860,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "OP3091",
@@ -1654,7 +1874,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "OP3092",
@@ -1663,7 +1888,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "OP3093",
@@ -1672,7 +1902,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "OP3094",
@@ -1681,7 +1916,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "OP3095",
@@ -1690,7 +1930,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "OP3096",
@@ -1699,7 +1944,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "IN3001B",
@@ -1708,7 +1958,12 @@
     "horasLaboratorio": 6,
     "unidades": 32.0,
     "creditosAcademicos": 12.0,
-    "unidadesDeCarga": 12.0
+    "unidadesDeCarga": 12.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "OP3001B",
@@ -1717,7 +1972,12 @@
     "horasLaboratorio": 6,
     "unidades": 16.0,
     "creditosAcademicos": 6.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1004B",
@@ -1726,7 +1986,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1005B",
@@ -1735,7 +2000,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "Q1020",
@@ -1744,7 +2014,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1029",
@@ -1753,7 +2028,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "BT1013",
@@ -1762,7 +2042,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1013B",
@@ -1771,7 +2056,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "F1014B",
@@ -1780,7 +2070,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1003B",
@@ -1789,7 +2084,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1030",
@@ -1798,7 +2098,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1033",
@@ -1807,7 +2112,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1004B",
@@ -1816,7 +2126,12 @@
     "horasLaboratorio": 3,
     "unidades": 16.0,
     "creditosAcademicos": 6.0,
-    "unidadesDeCarga": 6.0
+    "unidadesDeCarga": 6.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1031",
@@ -1825,7 +2140,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1032",
@@ -1834,7 +2154,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TI1015",
@@ -1843,7 +2168,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC2005B",
@@ -1852,7 +2182,12 @@
     "horasLaboratorio": 4,
     "unidades": 21.3,
     "creditosAcademicos": 8.0,
-    "unidadesDeCarga": 8.0
+    "unidadesDeCarga": 8.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC2006B",
@@ -1861,7 +2196,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC2037",
@@ -1870,7 +2210,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC2007B",
@@ -1879,7 +2224,12 @@
     "horasLaboratorio": 4,
     "unidades": 21.3,
     "creditosAcademicos": 8.0,
-    "unidadesDeCarga": 8.0
+    "unidadesDeCarga": 8.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC2008B",
@@ -1888,7 +2238,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC2038",
@@ -1897,7 +2252,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC3001B",
@@ -1906,7 +2266,12 @@
     "horasLaboratorio": 6,
     "unidades": 48.0,
     "creditosAcademicos": 18.0,
-    "unidadesDeCarga": 18.0
+    "unidadesDeCarga": 18.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC3002B",
@@ -1915,7 +2280,12 @@
     "horasLaboratorio": 6,
     "unidades": 16.0,
     "creditosAcademicos": 6.0,
-    "unidadesDeCarga": 6.0
+    "unidadesDeCarga": 6.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC3003B",
@@ -1924,7 +2294,12 @@
     "horasLaboratorio": 6,
     "unidades": 16.0,
     "creditosAcademicos": 6.0,
-    "unidadesDeCarga": 6.0
+    "unidadesDeCarga": 6.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "AR1013",
@@ -2923,7 +3298,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1022",
@@ -2932,7 +3312,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "P1010",
@@ -2941,7 +3326,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "P1011",
@@ -2950,7 +3340,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI1001B",
@@ -2959,7 +3354,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1001B",
@@ -2968,7 +3368,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "D1001B",
@@ -2977,7 +3382,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EC1002B",
@@ -2986,7 +3396,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EC1013",
@@ -2995,7 +3410,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EC1014",
@@ -3004,7 +3424,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1023",
@@ -3013,7 +3438,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1024",
@@ -3022,7 +3452,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1002B",
@@ -3031,7 +3466,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EC1003B",
@@ -3040,7 +3480,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EC1015",
@@ -3049,7 +3494,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "EC1016",
@@ -3058,7 +3508,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1025",
@@ -3067,7 +3522,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA1026",
@@ -3076,7 +3536,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "P1001B",
@@ -3085,7 +3550,12 @@
     "horasLaboratorio": 3,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidadesDeCarga": 3.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2001B",
@@ -3094,7 +3564,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2002B",
@@ -3103,7 +3578,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2003B",
@@ -3112,7 +3592,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2039",
@@ -3121,7 +3606,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2040",
@@ -3130,7 +3620,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2004B",
@@ -3139,7 +3634,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2005B",
@@ -3148,7 +3648,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2006B",
@@ -3157,7 +3662,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2041",
@@ -3166,7 +3676,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2042",
@@ -3175,7 +3690,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI2043",
@@ -3184,7 +3704,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "VA3111",
@@ -3193,7 +3718,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "VA3112",
@@ -3202,7 +3732,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "VA3113",
@@ -3211,7 +3746,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "VA3114",
@@ -3220,7 +3760,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "VA3115",
@@ -3229,7 +3774,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "VA3116",
@@ -3238,7 +3788,12 @@
     "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 0.0
+    "unidadesDeCarga": 0.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "RI3002B",
@@ -3247,7 +3802,12 @@
     "horasLaboratorio": 6,
     "unidades": 32.0,
     "creditosAcademicos": 12.0,
-    "unidadesDeCarga": 12.0
+    "unidadesDeCarga": 12.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC1014",
@@ -3562,7 +4122,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MA2016",
@@ -3571,7 +4136,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE2002B",
@@ -3580,7 +4150,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE2003B",
@@ -3589,7 +4164,12 @@
     "horasLaboratorio": 4,
     "unidades": 21.3,
     "creditosAcademicos": 8.0,
-    "unidadesDeCarga": 8.0
+    "unidadesDeCarga": 8.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE2044",
@@ -3598,7 +4178,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE2045",
@@ -3607,7 +4192,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "MR2002B",
@@ -3616,7 +4206,12 @@
     "horasLaboratorio": 4,
     "unidades": 10.7,
     "creditosAcademicos": 4.0,
-    "unidadesDeCarga": 4.0
+    "unidadesDeCarga": 4.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TC2036",
@@ -3625,7 +4220,12 @@
     "horasLaboratorio": 1,
     "unidades": 5.3,
     "creditosAcademicos": 2.0,
-    "unidadesDeCarga": 2.0
+    "unidadesDeCarga": 2.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE2004B",
@@ -3634,7 +4234,12 @@
     "horasLaboratorio": 4,
     "unidades": 21.3,
     "creditosAcademicos": 8.0,
-    "unidadesDeCarga": 8.0
+    "unidadesDeCarga": 8.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE2046",
@@ -3643,7 +4248,12 @@
     "horasLaboratorio": 1,
     "unidades": 2.7,
     "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidadesDeCarga": 1.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE3001B",
@@ -3652,7 +4262,12 @@
     "horasLaboratorio": 6,
     "unidades": 16.0,
     "creditosAcademicos": 6.0,
-    "unidadesDeCarga": 6.0
+    "unidadesDeCarga": 6.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE3002B",
@@ -3661,7 +4276,12 @@
     "horasLaboratorio": 6,
     "unidades": 32.0,
     "creditosAcademicos": 12.0,
-    "unidadesDeCarga": 12.0
+    "unidadesDeCarga": 12.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "TE3003B",
@@ -3670,7 +4290,12 @@
     "horasLaboratorio": 6,
     "unidades": 32.0,
     "creditosAcademicos": 12.0,
-    "unidadesDeCarga": 12.0
+    "unidadesDeCarga": 12.0,
+    "periodos": [
+      true,
+      true,
+      true
+    ]
   },
   {
     "clave": "AT1003",

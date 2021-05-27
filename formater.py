@@ -60,7 +60,7 @@ def isTec21(nombre_plan):
     return int(nombre_plan[-2:]) >= 19
 
 
-def generate_json(line, materias_semestre):
+def generate_json(line, materias_semestre, isTec21):
     global materias_samp
     attributes = line.replace("\n", "").split("\t")
     clave = attributes[0]
@@ -85,6 +85,9 @@ def generate_json(line, materias_semestre):
             "creditosAcademicos": float(attributes[5]),
             "unidadesDeCarga": float(attributes[6]),
         }
+
+    if isTec21:
+        json_var["periodos"] = [True, True, True]
 
     if clave not in claves_materias:
         materias_samp.append(json_var)
@@ -117,7 +120,7 @@ def readTec20(file, nombre_plan):
             and line[0].isalpha()
             and "Code\tName" not in line
         ):
-            generate_json(line, materias_semestre)
+            generate_json(line, materias_semestre, False)
 
         line = file.readline()
 
@@ -158,7 +161,7 @@ def readTec21(file, nombre_plan):
 
         elif "Semana" not in line and line not in banned_lines:
             complete_line = line.replace("\n", "\t") + file.readline()
-            generate_json(complete_line, materias_semestre)
+            generate_json(complete_line, materias_semestre, True)
 
         line = file.readline()
 
