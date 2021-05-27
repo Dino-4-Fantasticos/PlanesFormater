@@ -1,0 +1,525 @@
+[
+  {
+    "siglas": "./TXT_FORMATS/ITC19",
+    "nombre": "Ingeniería en Tecnologías Computacionales",
+    "esVigente": true,
+    "esTec21": true,
+    "materias": [
+      [
+        {
+          "clave": "EG1001"
+        },
+        {
+          "clave": "F1001B"
+        },
+        {
+          "clave": "F1004B"
+        },
+        {
+          "clave": "F1005B"
+        },
+        {
+          "clave": "MA1028"
+        },
+        {
+          "clave": "Q1020"
+        },
+        {
+          "clave": "TC1029"
+        }
+      ],
+      [
+        {
+          "clave": "BT1013"
+        },
+        {
+          "clave": "EG1002"
+        },
+        {
+          "clave": "F1008"
+        },
+        {
+          "clave": "F1013B"
+        },
+        {
+          "clave": "F1014B"
+        },
+        {
+          "clave": "MA1029"
+        },
+        {
+          "clave": "MA1031"
+        },
+        {
+          "clave": "TC1003B"
+        },
+        {
+          "clave": "TC1030"
+        }
+      ],
+      [
+        {
+          "clave": "EG1003"
+        },
+        {
+          "clave": "MA1033"
+        },
+        {
+          "clave": "TC1004B"
+        },
+        {
+          "clave": "TC1031"
+        },
+        {
+          "clave": "TC1032"
+        },
+        {
+          "clave": "TI1015"
+        },
+        {
+          "clave": "VA1001B"
+        }
+      ],
+      [
+        {
+          "clave": "EG1004"
+        },
+        {
+          "clave": "TC2005B"
+        },
+        {
+          "clave": "TC2006B"
+        },
+        {
+          "clave": "TC2037"
+        }
+      ],
+      [
+        {
+          "clave": "EG1005"
+        },
+        {
+          "clave": "TC2007B"
+        },
+        {
+          "clave": "TC2008B"
+        },
+        {
+          "clave": "TC2038"
+        }
+      ],
+      [
+        {
+          "clave": "TC3001B"
+        }
+      ],
+      [
+        {
+          "clave": "OP3091"
+        },
+        {
+          "clave": "OP3092"
+        },
+        {
+          "clave": "OP3093"
+        },
+        {
+          "clave": "OP3094"
+        },
+        {
+          "clave": "OP3095"
+        },
+        {
+          "clave": "OP3096"
+        }
+      ],
+      [
+        {
+          "clave": "OP3001B"
+        },
+        {
+          "clave": "TC3002B"
+        },
+        {
+          "clave": "TC3003B"
+        }
+      ]
+    ]
+  },
+  {
+    "siglas": "./TXT_FORMATS/ARQ11",
+    "nombre": "Arquitectura",
+    "esVigente": true,
+    "esTec21": false,
+    "materias": [
+      [
+        {
+          "clave": "AR1013"
+        },
+        {
+          "clave": "AR1014"
+        },
+        {
+          "clave": "AR1019"
+        },
+        {
+          "clave": "DL1002"
+        },
+        {
+          "clave": "DL1008"
+        },
+        {
+          "clave": "H1016"
+        },
+        {
+          "clave": "MA1009"
+        }
+      ],
+      [
+        {
+          "clave": "AR1015"
+        },
+        {
+          "clave": "AR1016"
+        },
+        {
+          "clave": "DL1004"
+        },
+        {
+          "clave": "DL1009"
+        },
+        {
+          "clave": "DS1003"
+        },
+        {
+          "clave": "H1040"
+        }
+      ],
+      [
+        {
+          "clave": "AR1007"
+        },
+        {
+          "clave": "AR1017"
+        },
+        {
+          "clave": "AR1018"
+        },
+        {
+          "clave": "AR2017"
+        },
+        {
+          "clave": "AR2018"
+        },
+        {
+          "clave": "CV2024"
+        }
+      ],
+      [
+        {
+          "clave": "AR1010"
+        },
+        {
+          "clave": "AR2004"
+        },
+        {
+          "clave": "AR2019"
+        },
+        {
+          "clave": "CV2023"
+        },
+        {
+          "clave": "CV2025"
+        },
+        {
+          "clave": "H1018"
+        }
+      ],
+      [
+        {
+          "clave": "AR2005"
+        },
+        {
+          "clave": "AR2020"
+        },
+        {
+          "clave": "AR2021"
+        },
+        {
+          "clave": "AR2022"
+        },
+        {
+          "clave": "CV2026"
+        },
+        {
+          "clave": "H2001"
+        }
+      ],
+      [
+        {
+          "clave": "AR2007"
+        },
+        {
+          "clave": "AR2023"
+        },
+        {
+          "clave": "AR2024"
+        },
+        {
+          "clave": "CV3017"
+        },
+        {
+          "clave": "EM1005"
+        }
+      ],
+      [
+        {
+          "clave": "AR2025"
+        },
+        {
+          "clave": "AR2026"
+        },
+        {
+          "clave": "AR3014"
+        },
+        {
+          "clave": "CV2027"
+        },
+        {
+          "clave": "CV3018"
+        }
+      ],
+      [
+        {
+          "clave": "AR3015"
+        },
+        {
+          "clave": "AR3016"
+        },
+        {
+          "clave": "AR3017"
+        },
+        {
+          "clave": "AR3018"
+        },
+        {
+          "clave": "CV2016"
+        },
+        {
+          "clave": "HS2005"
+        }
+      ],
+      [
+        {
+          "clave": "AR3006"
+        },
+        {
+          "clave": "AR3019"
+        },
+        {
+          "clave": "AR3020"
+        },
+        {
+          "clave": "VA2010"
+        },
+        {
+          "clave": "VA2011"
+        }
+      ],
+      [
+        {
+          "clave": "AR3021"
+        },
+        {
+          "clave": "AR3022"
+        },
+        {
+          "clave": "CV3022"
+        },
+        {
+          "clave": "HS2006"
+        },
+        {
+          "clave": "VA2012"
+        },
+        {
+          "clave": "VA2013"
+        }
+      ]
+    ]
+  },
+  {
+    "siglas": "./TXT_FORMATS/LRI19",
+    "nombre": "Licenciatura en Relaciones internacionales",
+    "esVigente": true,
+    "esTec21": true,
+    "materias": [
+      [
+        {
+          "clave": "EC1001B"
+        },
+        {
+          "clave": "EG1001"
+        },
+        {
+          "clave": "MA1022"
+        },
+        {
+          "clave": "P1010"
+        },
+        {
+          "clave": "P1011"
+        },
+        {
+          "clave": "RI1001B"
+        },
+        {
+          "clave": "TC1001B"
+        }
+      ],
+      [
+        {
+          "clave": "D1001B"
+        },
+        {
+          "clave": "EC1002B"
+        },
+        {
+          "clave": "EC1013"
+        },
+        {
+          "clave": "EC1014"
+        },
+        {
+          "clave": "EG1002"
+        },
+        {
+          "clave": "MA1023"
+        },
+        {
+          "clave": "MA1024"
+        },
+        {
+          "clave": "TC1002B"
+        }
+      ],
+      [
+        {
+          "clave": "EC1003B"
+        },
+        {
+          "clave": "EC1015"
+        },
+        {
+          "clave": "EC1016"
+        },
+        {
+          "clave": "EG1003"
+        },
+        {
+          "clave": "MA1025"
+        },
+        {
+          "clave": "MA1026"
+        },
+        {
+          "clave": "P1001B"
+        },
+        {
+          "clave": "VA1001B"
+        }
+      ],
+      [
+        {
+          "clave": "EG1004"
+        },
+        {
+          "clave": "RI2001B"
+        },
+        {
+          "clave": "RI2002B"
+        },
+        {
+          "clave": "RI2003B"
+        },
+        {
+          "clave": "RI2039"
+        },
+        {
+          "clave": "RI2040"
+        }
+      ],
+      [
+        {
+          "clave": "EG1005"
+        },
+        {
+          "clave": "RI2004B"
+        },
+        {
+          "clave": "RI2005B"
+        },
+        {
+          "clave": "RI2006B"
+        },
+        {
+          "clave": "RI2041"
+        },
+        {
+          "clave": "RI2042"
+        },
+        {
+          "clave": "RI2043"
+        }
+      ],
+      [
+        {
+          "clave": "VA3111"
+        },
+        {
+          "clave": "VA3112"
+        },
+        {
+          "clave": "VA3113"
+        },
+        {
+          "clave": "VA3114"
+        },
+        {
+          "clave": "VA3115"
+        },
+        {
+          "clave": "VA3116"
+        }
+      ],
+      [
+        {
+          "clave": "OP3091"
+        },
+        {
+          "clave": "OP3092"
+        },
+        {
+          "clave": "OP3093"
+        },
+        {
+          "clave": "OP3094"
+        },
+        {
+          "clave": "OP3095"
+        },
+        {
+          "clave": "OP3096"
+        }
+      ],
+      [
+        {
+          "clave": "OP3001B"
+        },
+        {
+          "clave": "RI3002B"
+        }
+      ]
+    ]
+  }
+]
