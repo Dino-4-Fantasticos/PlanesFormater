@@ -22,8 +22,6 @@ def read_file():
     file_names = glob.glob("./json_formats/*.json")
 
     for file_name in file_names:
-        if "example" in file_name: continue
-
         file = open(file_name, "r")
         yeison = json.loads(file.readline())
         materias_plan = []
@@ -172,7 +170,6 @@ def read_samp_file():
     file_names = glob.glob("./txt_formats/*.txt")
 
     for file_name in file_names:
-        if "example" in file_name: continue
         file = open(file_name, "r")
 
         nombre_plan = file_name.replace(".txt", "").replace("./samp/", "").upper()
