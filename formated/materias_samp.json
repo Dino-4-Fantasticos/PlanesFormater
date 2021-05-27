@@ -1,5 +1,881 @@
 [
   {
+    "clave": "AD1005",
+    "nombre": "Administración e innovación en modelos de negocios",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "F1002",
+    "nombre": "Física I",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "H1016",
+    "nombre": "Lengua extranjera",
+    "horasClase": 5,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1041",
+    "nombre": "Música y sociedad",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1042",
+    "nombre": "Teoría de la música y solfeo",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM1001",
+    "nombre": "Introducción a la ingeniería en producción musical digital",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA1015",
+    "nombre": "Matemáticas I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "CO1007",
+    "nombre": "Comunicación, signos y significación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DS1003",
+    "nombre": "Ciencias naturales y desarrollo sustentable",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "F1003",
+    "nombre": "Física II",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "H1040",
+    "nombre": "Análisis y expresión verbal",
+    "horasClase": 5,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 5.8
+  },
+  {
+    "clave": "H1044",
+    "nombre": "Apreciación musical I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM1002",
+    "nombre": "Taller de teoría musical aplicada",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "MA1017",
+    "nombre": "Matemáticas II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "F1005",
+    "nombre": "Electricidad y magnetismo",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "H1018",
+    "nombre": "Ética, persona y sociedad",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H2035",
+    "nombre": "Apreciación musical II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2004",
+    "nombre": "Taller de entrenamiento auditivo e instrumental",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "MA2009",
+    "nombre": "Matemáticas III",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1017",
+    "nombre": "Solución de problemas con programación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT2006",
+    "nombre": "Teoría y práctica del sonido",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H2001",
+    "nombre": "Expresión verbal en el ámbito profesional",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2005",
+    "nombre": "Programación de audio",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA1006",
+    "nombre": "Probabilidad y estadística",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA2010",
+    "nombre": "Ecuaciones diferenciales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE1012",
+    "nombre": "Circuitos eléctricos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AV1004",
+    "nombre": "Lenguaje y narrativa audiovisual",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "CF1010",
+    "nombre": "Contabilidad y administración de costos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "F2009",
+    "nombre": "Acústica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MT1003",
+    "nombre": "Mercadotecnia y creatividad",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1015",
+    "nombre": "Fundamentos de diseño interactivo",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE1010",
+    "nombre": "Sistemas digitales",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "AV2006",
+    "nombre": "Diseño y producción de narrativas audiovisuales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EC1010",
+    "nombre": "Economía para la creación de negocios",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EM1005",
+    "nombre": "Emprendimiento",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "HS2000",
+    "nombre": "Humanidades y bellas artes",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2006",
+    "nombre": "Sistemas MIDI",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE1003",
+    "nombre": "Electrónica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AD2014",
+    "nombre": "Negocios en la industria de la música y el entretenimiento",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AV2009",
+    "nombre": "Administración y evaluación de proyectos de medios",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "HS2005",
+    "nombre": "Ciudadanía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM2007",
+    "nombre": "Ingeniería de audio",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3006",
+    "nombre": "Sistemas de audio digital para web y dispositivos móviles",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3007",
+    "nombre": "Taller de composición y arreglo digital",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "HS2006",
+    "nombre": "Ética aplicada",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3008",
+    "nombre": "Taller de producción y mezcla digital",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "IM3009",
+    "nombre": "Técnicas de grabación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "VA2010",
+    "nombre": "Tópicos I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0
+  },
+  {
+    "clave": "VA2011",
+    "nombre": "Tópicos II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0
+  },
+  {
+    "clave": "VA2012",
+    "nombre": "Tópicos III",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0
+  },
+  {
+    "clave": "CO3007",
+    "nombre": "Publicidad y mercadotecnia integral",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3010",
+    "nombre": "Proyecto de producción musical",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IM3011",
+    "nombre": "Taller de postproducción y masterización digital",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "IM3012",
+    "nombre": "Introducción a la vida profesional",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
+  },
+  {
+    "clave": "VA2013",
+    "nombre": "Tópicos IV",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0
+  },
+  {
+    "clave": "VA2014",
+    "nombre": "Tópicos V",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0
+  },
+  {
+    "clave": "VA2015",
+    "nombre": "Tópicos VI",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0
+  },
+  {
+    "clave": "MA1016",
+    "nombre": "Matemáticas I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "P1002",
+    "nombre": "Fundamentos de la ciencia política",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI1008",
+    "nombre": "Historia mundial del siglo XIX",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI1009",
+    "nombre": "Introducción a la carrera de LRI",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2028",
+    "nombre": "Historia de México independiente",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H2033",
+    "nombre": "Antropología social",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA1008",
+    "nombre": "Estadística para la investigación en ciencias sociales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI1004",
+    "nombre": "Perspectiva internacional",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2029",
+    "nombre": "Historia de México contemporáneo",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2030",
+    "nombre": "Historia mundial de los siglos XX y XXI",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "CO2003",
+    "nombre": "Métodos cuantitativos para la investigación social",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EC1008",
+    "nombre": "Economía de la empresa",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1045",
+    "nombre": "Literatura y poder en América Latina",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "P1000",
+    "nombre": "Sociología",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2031",
+    "nombre": "Geopolítica y cambios globales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "CO2004",
+    "nombre": "Métodos cualitativos de investigación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "D1012",
+    "nombre": "Derecho constitucional",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EC1009",
+    "nombre": "Entorno macroeconómico",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "P2009",
+    "nombre": "Pensamiento político clásico",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1026",
+    "nombre": "Filosofía y pensamiento contemporáneo",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "P2001",
+    "nombre": "Estado y economía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2007",
+    "nombre": "Aspectos jurídicos de las relaciones internacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2012",
+    "nombre": "Escenario regional de América Latina y el Caribe",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2032",
+    "nombre": "Teorías de las relaciones internacionales I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "EC2025",
+    "nombre": "Economía global",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2008",
+    "nombre": "Escenario regional de Norteamérica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2013",
+    "nombre": "Escenario regional de Europa",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI3016",
+    "nombre": "Teorías de las relaciones internacionales II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "NI3036",
+    "nombre": "Tratados comerciales internacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "P3011",
+    "nombre": "Sociedad civil y participación ciudadana",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2014",
+    "nombre": "Instituciones y organismos internacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2016",
+    "nombre": "Escenario regional de Asia",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2033",
+    "nombre": "Política exterior de México",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "P3014",
+    "nombre": "Gestión de proyectos sociales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2015",
+    "nombre": "Análisis de políticas exteriores",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI3002",
+    "nombre": "Escenario regional de África",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI3005",
+    "nombre": "Prospectiva estratégica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2017",
+    "nombre": "Escenario regional de Medio Oriente",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI2034",
+    "nombre": "Negociación y manejo de conflictos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI3006",
+    "nombre": "Seminario de relaciones internacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RI3019",
+    "nombre": "Introducción a la vida profesional",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
+  },
+  {
     "clave": "EG1001",
     "nombre": "Optativa de matemáticas y ciencias",
     "horasClase": 3,
@@ -18,8 +894,8 @@
     "unidadesDeCarga": 3.0
   },
   {
-    "clave": "F1004B",
-    "nombre": "Modelación computacional del movimiento",
+    "clave": "F1006B",
+    "nombre": "Modelación del movimiento en ingeniería",
     "horasClase": 9,
     "horasLaboratorio": 3,
     "unidades": 8.0,
@@ -27,8 +903,8 @@
     "unidadesDeCarga": 3.0
   },
   {
-    "clave": "F1005B",
-    "nombre": "Modelación computacional aplicando leyes de conservación",
+    "clave": "F1007B",
+    "nombre": "Aplicación de las leyes de conservación en sistemas ingenieriles",
     "horasClase": 9,
     "horasLaboratorio": 3,
     "unidades": 8.0,
@@ -45,31 +921,22 @@
     "unidadesDeCarga": 2.0
   },
   {
-    "clave": "Q1020",
-    "nombre": "Análisis de la estructura y propiedades de la materia",
-    "horasClase": 3,
-    "horasLaboratorio": 1,
-    "unidades": 2.7,
-    "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "clave": "Q1019",
+    "nombre": "Análisis de la estructura, propiedades y transformación de la materia",
+    "horasClase": 6,
+    "horasLaboratorio": 2,
+    "unidades": 5.3,
+    "creditosAcademicos": 2.0,
+    "unidadesDeCarga": 2.0
   },
   {
-    "clave": "TC1029",
-    "nombre": "Pensamiento computacional y programación",
+    "clave": "TC1028",
+    "nombre": "Pensamiento computacional para ingeniería",
     "horasClase": 3,
     "horasLaboratorio": 1,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
-  },
-  {
-    "clave": "BT1013",
-    "nombre": "Análisis de biología computacional",
-    "horasClase": 3,
-    "horasLaboratorio": 1,
-    "unidades": 2.7,
-    "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "unidades": 5.3,
+    "creditosAcademicos": 2.0,
+    "unidadesDeCarga": 2.0
   },
   {
     "clave": "EG1002",
@@ -90,8 +957,8 @@
     "unidadesDeCarga": 1.0
   },
   {
-    "clave": "F1013B",
-    "nombre": "Modelación computacional de sistemas eléctricos",
+    "clave": "F1015B",
+    "nombre": "Aplicación de la termodinámica en sistemas ingenieriles",
     "horasClase": 9,
     "horasLaboratorio": 3,
     "unidades": 8.0,
@@ -99,8 +966,17 @@
     "unidadesDeCarga": 3.0
   },
   {
-    "clave": "F1014B",
-    "nombre": "Modelación computacional de sistemas electromagnéticos",
+    "clave": "F1016B",
+    "nombre": "Análisis de sistemas eléctricos en sistemas ingenieriles",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "F1017B",
+    "nombre": "Análisis de sistemas electromagnéticos en sistemas ingenieriles",
     "horasClase": 9,
     "horasLaboratorio": 3,
     "unidades": 8.0,
@@ -117,6 +993,15 @@
     "unidadesDeCarga": 2.0
   },
   {
+    "clave": "MA1030",
+    "nombre": "Modelación matricial",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
     "clave": "MA1031",
     "nombre": "Análisis estadístico",
     "horasClase": 3,
@@ -126,17 +1011,8 @@
     "unidadesDeCarga": 1.0
   },
   {
-    "clave": "TC1003B",
-    "nombre": "Modelación de la ingeniería con matemática computacional",
-    "horasClase": 9,
-    "horasLaboratorio": 3,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
-  },
-  {
-    "clave": "TC1030",
-    "nombre": "Programación orientada a objetos",
+    "clave": "Q1021",
+    "nombre": "Experimentación química y pensamiento estadístico fundamental",
     "horasClase": 3,
     "horasLaboratorio": 1,
     "unidades": 2.7,
@@ -153,44 +1029,52 @@
     "unidadesDeCarga": 0.0
   },
   {
-    "clave": "MA1033",
-    "nombre": "Análisis de ecuaciones diferenciales",
-    "horasClase": 3,
-    "horasLaboratorio": 1,
-    "unidades": 2.7,
-    "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
-  },
-  {
-    "clave": "TC1004B",
-    "nombre": "Implementación de internet de las cosas",
+    "clave": "IN1001B",
+    "nombre": "Diseño y análisis de experimentos para la innovación ingenieril",
     "horasClase": 9,
     "horasLaboratorio": 3,
-    "unidades": 16.0,
-    "creditosAcademicos": 6.0,
-    "unidadesDeCarga": 6.0
-  },
-  {
-    "clave": "TC1031",
-    "nombre": "Programación de estructuras de datos y algoritmos fundamentales",
-    "horasClase": 3,
-    "horasLaboratorio": 1,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
     "unidadesDeCarga": 3.0
   },
   {
-    "clave": "TC1032",
-    "nombre": "Modelación de sistemas mínimos y arquitecturas computacionales",
+    "clave": "IN1002B",
+    "nombre": "Desarrollo de proyectos de análisis de datos",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "M1011",
+    "nombre": "Análisis de equilibrio estático",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 5.3,
+    "creditosAcademicos": 2.0,
+    "unidadesDeCarga": 2.0
+  },
+  {
+    "clave": "MA1034",
+    "nombre": "Modelación de procesos mediante algebra lineal",
     "horasClase": 3,
     "horasLaboratorio": 1,
     "unidades": 2.7,
-    "creditosAcademicos": 1.0,
-    "unidadesDeCarga": 1.0
+    "creditosAcademicos": 1.0
   },
   {
-    "clave": "TI1015",
-    "nombre": "Análisis de requerimientos de software",
+    "clave": "MA1035",
+    "nombre": "Modelación en ingeniería mediante sistemas dinámicos",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 5.3,
+    "creditosAcademicos": 2.0,
+    "unidadesDeCarga": 2.0
+  },
+  {
+    "clave": "TE1020",
+    "nombre": "Análisis de circuitos eléctricos",
     "horasClase": 3,
     "horasLaboratorio": 1,
     "unidades": 2.7,
@@ -216,17 +1100,8 @@
     "unidadesDeCarga": 0.0
   },
   {
-    "clave": "TC2005B",
-    "nombre": "Construcción de software y toma de decisiones",
-    "horasClase": 12,
-    "horasLaboratorio": 4,
-    "unidades": 21.3,
-    "creditosAcademicos": 8.0,
-    "unidadesDeCarga": 8.0
-  },
-  {
-    "clave": "TC2006B",
-    "nombre": "Interconexión de dispositivos",
+    "clave": "IN2001B",
+    "nombre": "Desarrollo de proyectos con visión sistémica",
     "horasClase": 12,
     "horasLaboratorio": 4,
     "unidades": 10.7,
@@ -234,13 +1109,49 @@
     "unidadesDeCarga": 4.0
   },
   {
-    "clave": "TC2037",
-    "nombre": "Implementación de métodos computacionales",
+    "clave": "IN2002B",
+    "nombre": "Mejora de un proceso organizacional con métodos estadísticos",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
+  },
+  {
+    "clave": "IN2003B",
+    "nombre": "Conceptualización de procesos con enfoque innovador",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
+  },
+  {
+    "clave": "IN2032",
+    "nombre": "Análisis estadístico de datos",
     "horasClase": 3,
     "horasLaboratorio": 1,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "IN2037",
+    "nombre": "Diseño de sistemas ciberfísicos",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "IN2038",
+    "nombre": "Evaluación económica de proyectos",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
   },
   {
     "clave": "EG1005",
@@ -252,17 +1163,8 @@
     "unidadesDeCarga": 0.0
   },
   {
-    "clave": "TC2007B",
-    "nombre": "Integración de seguridad informática en redes y sistemas de software",
-    "horasClase": 12,
-    "horasLaboratorio": 4,
-    "unidades": 21.3,
-    "creditosAcademicos": 8.0,
-    "unidadesDeCarga": 8.0
-  },
-  {
-    "clave": "TC2008B",
-    "nombre": "Modelación de sistemas multiagentes con gráficas computacionales",
+    "clave": "IN2004B",
+    "nombre": "Generación de valor con analítica de datos",
     "horasClase": 12,
     "horasLaboratorio": 4,
     "unidades": 10.7,
@@ -270,22 +1172,103 @@
     "unidadesDeCarga": 4.0
   },
   {
-    "clave": "TC2038",
-    "nombre": "Análisis y diseño de algoritmos avanzados",
-    "horasClase": 3,
-    "horasLaboratorio": 1,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.0
+    "clave": "IN2005B",
+    "nombre": "Evaluación de la competitividad organizacional",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
   },
   {
-    "clave": "TC3001B",
-    "nombre": "Desarrollo de software",
-    "horasClase": 18,
-    "horasLaboratorio": 6,
-    "unidades": 48.0,
-    "creditosAcademicos": 18.0,
-    "unidadesDeCarga": 18.0
+    "clave": "IN2006B",
+    "nombre": "Análisis de la viabilidad de proyectos con perspectiva sistémica",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
+  },
+  {
+    "clave": "IN2039",
+    "nombre": "Visualización de datos para la toma de decisiones",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "IN2040",
+    "nombre": "Optimización de procesos organizacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "IN2041",
+    "nombre": "Mejora de procesos con métodos heurísticos y metaheurísticos",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "IN2007B",
+    "nombre": "Diseño disruptivo de procesos organizacionales",
+    "horasClase": 15,
+    "horasLaboratorio": 5,
+    "unidades": 13.3,
+    "creditosAcademicos": 5.0,
+    "unidadesDeCarga": 5.0
+  },
+  {
+    "clave": "IN2008B",
+    "nombre": "Aseguramiento de la excelencia operacional",
+    "horasClase": 15,
+    "horasLaboratorio": 5,
+    "unidades": 13.3,
+    "creditosAcademicos": 5.0,
+    "unidadesDeCarga": 5.0
+  },
+  {
+    "clave": "IN2009B",
+    "nombre": "Mejora de una cadena de valor adaptativa",
+    "horasClase": 15,
+    "horasLaboratorio": 5,
+    "unidades": 13.3,
+    "creditosAcademicos": 5.0,
+    "unidadesDeCarga": 5.0
+  },
+  {
+    "clave": "IN2042",
+    "nombre": "Modelación de la cadena de valor",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "IN2043",
+    "nombre": "Simulación discreta, continua y por agentes",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "IN2044",
+    "nombre": "Diseño de un proceso de consultoría y gestión del cambio",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
   },
   {
     "clave": "OP3091",
@@ -342,6 +1325,15 @@
     "unidadesDeCarga": 0.0
   },
   {
+    "clave": "IN3001B",
+    "nombre": "Diseño de un sistema organizacional inteligente",
+    "horasClase": 18,
+    "horasLaboratorio": 6,
+    "unidades": 32.0,
+    "creditosAcademicos": 12.0,
+    "unidadesDeCarga": 12.0
+  },
+  {
     "clave": "OP3001B",
     "nombre": "Optativa profesional multidisciplinaria",
     "horasClase": 18,
@@ -349,6 +1341,195 @@
     "unidades": 16.0,
     "creditosAcademicos": 6.0,
     "unidadesDeCarga": 0.0
+  },
+  {
+    "clave": "F1004B",
+    "nombre": "Modelación computacional del movimiento",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "F1005B",
+    "nombre": "Modelación computacional aplicando leyes de conservación",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "Q1020",
+    "nombre": "Análisis de la estructura y propiedades de la materia",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "TC1029",
+    "nombre": "Pensamiento computacional y programación",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "BT1013",
+    "nombre": "Análisis de biología computacional",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "F1013B",
+    "nombre": "Modelación computacional de sistemas eléctricos",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "F1014B",
+    "nombre": "Modelación computacional de sistemas electromagnéticos",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "TC1003B",
+    "nombre": "Modelación de la ingeniería con matemática computacional",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "TC1030",
+    "nombre": "Programación orientada a objetos",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "MA1033",
+    "nombre": "Análisis de ecuaciones diferenciales",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "TC1004B",
+    "nombre": "Implementación de internet de las cosas",
+    "horasClase": 9,
+    "horasLaboratorio": 3,
+    "unidades": 16.0,
+    "creditosAcademicos": 6.0,
+    "unidadesDeCarga": 6.0
+  },
+  {
+    "clave": "TC1031",
+    "nombre": "Programación de estructuras de datos y algoritmos fundamentales",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "TC1032",
+    "nombre": "Modelación de sistemas mínimos y arquitecturas computacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "TI1015",
+    "nombre": "Análisis de requerimientos de software",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 2.7,
+    "creditosAcademicos": 1.0,
+    "unidadesDeCarga": 1.0
+  },
+  {
+    "clave": "TC2005B",
+    "nombre": "Construcción de software y toma de decisiones",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 21.3,
+    "creditosAcademicos": 8.0,
+    "unidadesDeCarga": 8.0
+  },
+  {
+    "clave": "TC2006B",
+    "nombre": "Interconexión de dispositivos",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
+  },
+  {
+    "clave": "TC2037",
+    "nombre": "Implementación de métodos computacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "TC2007B",
+    "nombre": "Integración de seguridad informática en redes y sistemas de software",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 21.3,
+    "creditosAcademicos": 8.0,
+    "unidadesDeCarga": 8.0
+  },
+  {
+    "clave": "TC2008B",
+    "nombre": "Modelación de sistemas multiagentes con gráficas computacionales",
+    "horasClase": 12,
+    "horasLaboratorio": 4,
+    "unidades": 10.7,
+    "creditosAcademicos": 4.0,
+    "unidadesDeCarga": 4.0
+  },
+  {
+    "clave": "TC2038",
+    "nombre": "Análisis y diseño de algoritmos avanzados",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.0
+  },
+  {
+    "clave": "TC3001B",
+    "nombre": "Desarrollo de software",
+    "horasClase": 18,
+    "horasLaboratorio": 6,
+    "unidades": 48.0,
+    "creditosAcademicos": 18.0,
+    "unidadesDeCarga": 18.0
   },
   {
     "clave": "TC3002B",
@@ -387,15 +1568,6 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "AR1019",
-    "nombre": "Introducción a la arquitectura",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 4.0,
-    "creditosAcademicos": 1.5,
-    "unidadesDeCarga": 3.5
-  },
-  {
     "clave": "DL1002",
     "nombre": "Fundamentos del diseño I",
     "horasClase": 4,
@@ -414,12 +1586,12 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "H1016",
-    "nombre": "Lengua extranjera",
-    "horasClase": 5,
+    "clave": "DL1014",
+    "nombre": "Introducción al diseño",
+    "horasClase": 3,
     "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
     "unidadesDeCarga": 3.5
   },
   {
@@ -432,15 +1604,6 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "AR1015",
-    "nombre": "Dibujo arquitectónico",
-    "horasClase": 4,
-    "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 4.7
-  },
-  {
     "clave": "AR1016",
     "nombre": "Geometría aplicada",
     "horasClase": 3,
@@ -448,6 +1611,15 @@
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
     "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT1001",
+    "nombre": "Dibujo artístico",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
   },
   {
     "clave": "DL1004",
@@ -468,8 +1640,8 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "DS1003",
-    "nombre": "Ciencias naturales y desarrollo sustentable",
+    "clave": "DL1010",
+    "nombre": "Taller de modelos y prototipos I",
     "horasClase": 3,
     "horasLaboratorio": 0,
     "unidades": 8.0,
@@ -477,13 +1649,292 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "H1040",
-    "nombre": "Análisis y expresión verbal",
-    "horasClase": 5,
+    "clave": "DL1011",
+    "nombre": "Diseño de producto",
+    "horasClase": 3,
     "horasLaboratorio": 0,
     "unidades": 8.0,
     "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 5.8
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL1012",
+    "nombre": "Ergonomía para el diseño",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL1013",
+    "nombre": "Métodos de diseño y etnografía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "F2001",
+    "nombre": "Física para el diseño",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "M1006",
+    "nombre": "Dibujo computarizado",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT2000",
+    "nombre": "Modelación digital",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2019",
+    "nombre": "Diseño de productos y servicios",
+    "horasClase": 6,
+    "horasLaboratorio": 0,
+    "unidades": 12.0,
+    "creditosAcademicos": 4.5,
+    "unidadesDeCarga": 7.0
+  },
+  {
+    "clave": "M2024",
+    "nombre": "Procesos de manufactura",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2020",
+    "nombre": "Diseño centrado en el usuario",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2021",
+    "nombre": "Diseño de experiencias I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2022",
+    "nombre": "Modelación digital avanzada",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2023",
+    "nombre": "Taller de modelos y prototipos II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1032",
+    "nombre": "Identidad y cultura mexicana",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "M2032",
+    "nombre": "Tecnología de materiales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2024",
+    "nombre": "Diseño de experiencias II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2025",
+    "nombre": "Lenguaje y significado de los objetos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2026",
+    "nombre": "Técnicas avanzadas de representación digital",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "M3034",
+    "nombre": "Prototipaje computarizado",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL2027",
+    "nombre": "Prospectiva del diseño industrial",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL3014",
+    "nombre": "Diseño de productos y sistemas I",
+    "horasClase": 6,
+    "horasLaboratorio": 0,
+    "unidades": 12.0,
+    "creditosAcademicos": 4.5,
+    "unidadesDeCarga": 7.0
+  },
+  {
+    "clave": "IN2030",
+    "nombre": "Modelos de manufactura",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AD3024",
+    "nombre": "Planeación, innovación y sustentabilidad estratégica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL3015",
+    "nombre": "Diseño de productos y sistemas II",
+    "horasClase": 6,
+    "horasLaboratorio": 0,
+    "unidades": 12.0,
+    "creditosAcademicos": 4.5,
+    "unidadesDeCarga": 7.0
+  },
+  {
+    "clave": "DL3016",
+    "nombre": "Innovación, diseño y entorno de negocios",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2025",
+    "nombre": "Evaluación y administración de proyectos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AD2012",
+    "nombre": "Prospectiva estratégica de negocios",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AD3023",
+    "nombre": "Innovación de modelos de negocio y gestión de empresas familiares",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL3017",
+    "nombre": "Proyecto de inserción profesional",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DL3018",
+    "nombre": "Introducción a la vida profesional",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
+  },
+  {
+    "clave": "MT3023",
+    "nombre": "Desarrollo de productos y marcas globales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AR1019",
+    "nombre": "Introducción a la arquitectura",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AR1015",
+    "nombre": "Dibujo arquitectónico",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
   },
   {
     "clave": "AR1007",
@@ -585,15 +2036,6 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "H1018",
-    "nombre": "Ética, persona y sociedad",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.5
-  },
-  {
     "clave": "AR2005",
     "nombre": "Historia de la arquitectura y de la ciudad III",
     "horasClase": 3,
@@ -639,15 +2081,6 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "H2001",
-    "nombre": "Expresión verbal en el ámbito profesional",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.5
-  },
-  {
     "clave": "AR2007",
     "nombre": "Historia de la arquitectura y de la ciudad IV",
     "horasClase": 3,
@@ -677,15 +2110,6 @@
   {
     "clave": "CV3017",
     "nombre": "Diseño de estructuras de concreto",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.5
-  },
-  {
-    "clave": "EM1005",
-    "nombre": "Emprendimiento",
     "horasClase": 3,
     "horasLaboratorio": 0,
     "unidades": 8.0,
@@ -783,15 +2207,6 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "HS2005",
-    "nombre": "Ciudadanía",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8.0,
-    "creditosAcademicos": 3.0,
-    "unidadesDeCarga": 3.5
-  },
-  {
     "clave": "AR3006",
     "nombre": "Metodologías de diseño urbano",
     "horasClase": 3,
@@ -817,22 +2232,6 @@
     "unidades": 12.0,
     "creditosAcademicos": 4.5,
     "unidadesDeCarga": 7.0
-  },
-  {
-    "clave": "VA2010",
-    "nombre": "Tópicos I",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8,
-    "creditosAcademicos": 3.0
-  },
-  {
-    "clave": "VA2011",
-    "nombre": "Tópicos II",
-    "horasClase": 3,
-    "horasLaboratorio": 0,
-    "unidades": 8,
-    "creditosAcademicos": 3.0
   },
   {
     "clave": "AR3021",
@@ -862,8 +2261,17 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "HS2006",
-    "nombre": "Ética aplicada",
+    "clave": "DS1006",
+    "nombre": "Introducción a la ingeniería en desarrollo sustentable",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "Q1001",
+    "nombre": "Química",
     "horasClase": 3,
     "horasLaboratorio": 0,
     "unidades": 8.0,
@@ -871,20 +2279,274 @@
     "unidadesDeCarga": 3.5
   },
   {
-    "clave": "VA2012",
-    "nombre": "Tópicos III",
+    "clave": "DS1002",
+    "nombre": "Ecosistemas y biodiversidad",
     "horasClase": 3,
     "horasLaboratorio": 0,
-    "unidades": 8,
-    "creditosAcademicos": 3.0
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
   },
   {
-    "clave": "VA2013",
-    "nombre": "Tópicos IV",
+    "clave": "Q1004",
+    "nombre": "Laboratorio de química",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "DS1004",
+    "nombre": "Fundamentos del desarrollo sustentable",
     "horasClase": 3,
     "horasLaboratorio": 0,
-    "unidades": 8,
-    "creditosAcademicos": 3.0
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IQ1001",
+    "nombre": "Balance de materia",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IQ2000",
+    "nombre": "Balance de energía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IQ2001",
+    "nombre": "Termodinámica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "M1003",
+    "nombre": "Estática",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "M2025",
+    "nombre": "Métodos numéricos en ingeniería",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE1002",
+    "nombre": "Circuitos eléctricos I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "CV2030",
+    "nombre": "Uso sustentable del agua I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2023",
+    "nombre": "Diseño y análisis de experimentos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IQ2005",
+    "nombre": "Operaciones de transferencia de momentum",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "RH1000",
+    "nombre": "Comportamiento organizacional y desarrollo del talento humano",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE1014",
+    "nombre": "Laboratorio de circuitos eléctricos y mediciones",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "TE2032",
+    "nombre": "Circuitos eléctricos II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DS2001",
+    "nombre": "Ecología industrial",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DS3002",
+    "nombre": "Manejo de recursos naturales y cambio climático",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IQ2004",
+    "nombre": "Operaciones de transferencia de calor",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DS3003",
+    "nombre": "Responsabilidad social y sustentabilidad corporativa",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "F3024",
+    "nombre": "Energías alternas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IQ3004",
+    "nombre": "Ecoeficiencia y procesos sustentables",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "M2003",
+    "nombre": "Sistemas para la generación de energía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DS3004",
+    "nombre": "Negocios y conservación de ecosistemas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IQ3032",
+    "nombre": "Tecnologías para el uso eficiente de energía térmica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE2029",
+    "nombre": "Laboratorio de administración y monitoreo de energía",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "TE3053",
+    "nombre": "Sistemas para la distribución de la energía",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DS3005",
+    "nombre": "Proyecto integrador en desarrollo sustentable",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "DS3006",
+    "nombre": "Introducción a la vida profesional",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
+  },
+  {
+    "clave": "TE2042",
+    "nombre": "Tecnologías para el uso eficiente de energía eléctrica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TE3052",
+    "nombre": "Administración de los proyectos energéticos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
   },
   {
     "clave": "EC1001B",
@@ -1218,5 +2880,716 @@
     "unidades": 32.0,
     "creditosAcademicos": 12.0,
     "unidadesDeCarga": 12.0
+  },
+  {
+    "clave": "TC1014",
+    "nombre": "Fundamentos de programación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI1013",
+    "nombre": "Introducción a la ingeniería en negocios y tecnologías de información",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC2016",
+    "nombre": "Programación orientada a objetos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1016",
+    "nombre": "Organización computacional",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "TC1019",
+    "nombre": "Fundamentos de ingeniería de software",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI1010",
+    "nombre": "Creatividad e innovación para la solución de problemas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "FZ1005",
+    "nombre": "Matemáticas financieras",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1020",
+    "nombre": "Bases de datos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC2018",
+    "nombre": "Fundamentos de redes",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "TC2019",
+    "nombre": "Métodos numéricos en ingeniería",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI1011",
+    "nombre": "Procesos de comercialización",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2004",
+    "nombre": "Control estadístico de la calidad",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2022",
+    "nombre": "Modelos de optimización",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC2009",
+    "nombre": "Uso y administración de sistemas operativos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI2002",
+    "nombre": "Administración de procesos de negocios",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "FZ1006",
+    "nombre": "Finanzas personales y empresariales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN1002",
+    "nombre": "Laboratorio de ingeniería de sistemas",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "IN2020",
+    "nombre": "Administración de inventarios",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI2010",
+    "nombre": "Proyecto integrador I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI2011",
+    "nombre": "Evaluación y administración de proyectos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI3030",
+    "nombre": "Administración de la información",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2005",
+    "nombre": "Dinámica de sistemas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2021",
+    "nombre": "Administración de la producción",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC2007",
+    "nombre": "Métodos cuantitativos y simulación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI3031",
+    "nombre": "Administración estratégica de tecnologías de información",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI3032",
+    "nombre": "Sistemas de información empresarial",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "AD3002",
+    "nombre": "Consultoría administrativa",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3039",
+    "nombre": "Metodologías para la solución de problemas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI3028",
+    "nombre": "Administración del cambio",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI3033",
+    "nombre": "Gobernabilidad de tecnologías de información",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC3011",
+    "nombre": "Administración de servicios de tecnologías de información",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI3029",
+    "nombre": "Proyecto integrador II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TI3034",
+    "nombre": "Inteligencia de negocios",
+    "horasClase": 3,
+    "horasLaboratorio": 1,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "TI3035",
+    "nombre": "Introducción a la vida profesional",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
+  },
+  {
+    "clave": "AT1003",
+    "nombre": "Introducción a la carrera de LAD",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1003",
+    "nombre": "Matemáticas discretas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "A1000",
+    "nombre": "Taller de exploración de la forma I",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "AT1002",
+    "nombre": "Fundamentos de animación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AV1000",
+    "nombre": "Fotografía e imagen digital",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1018",
+    "nombre": "Estructura de datos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "A2001",
+    "nombre": "Taller de exploración de la forma II",
+    "horasClase": 4,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 4.7
+  },
+  {
+    "clave": "MA1021",
+    "nombre": "Matemáticas aplicadas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "A1002",
+    "nombre": "Estética",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT2005",
+    "nombre": "Animación 3D",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H1048",
+    "nombre": "Estructuras narrativas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC1021",
+    "nombre": "Proyecto de desarrollo de videojuegos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT3001",
+    "nombre": "Modelación digital avanzada",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AV2004",
+    "nombre": "Guionismo",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "H2003",
+    "nombre": "Arte contemporáneo y sociedad",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC3022",
+    "nombre": "Gráficas computacionales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT2007",
+    "nombre": "Ambientes virtuales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT3002",
+    "nombre": "Animación 3D avanzada",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT3003",
+    "nombre": "Producción de efectos visuales para medios digitales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "TC3028",
+    "nombre": "Interfaces físicas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT3004",
+    "nombre": "Proyecto integrador de arte y tecnología",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "AT3005",
+    "nombre": "Introducción a la vida profesional",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
+  },
+  {
+    "clave": "AV3010",
+    "nombre": "Realización cinematográfica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "D1025",
+    "nombre": "Normatividad de la comunicación",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN1003",
+    "nombre": "Introducción a la ingeniería industrial",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "MA1020",
+    "nombre": "Estadística I",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2017",
+    "nombre": "Diseño de instalaciones y manejo de materiales",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2018",
+    "nombre": "Diseño del trabajo",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2019",
+    "nombre": "Laboratorio de metrología",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "MA2011",
+    "nombre": "Estadística II",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2024",
+    "nombre": "Modelos para la toma de decisiones",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3013",
+    "nombre": "Laboratorio de sistemas integrados de manufactura",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "IN3015",
+    "nombre": "Sistemas integrados de manufactura",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3035",
+    "nombre": "Análisis y mejoramiento de sistemas de manufactura",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2026",
+    "nombre": "Ingeniería estadística",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2027",
+    "nombre": "Simulación de eventos discretos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN2028",
+    "nombre": "Sistemas de conocimiento en las organizaciones",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3037",
+    "nombre": "Diseño y mejoramiento de sistemas logísticos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3038",
+    "nombre": "Laboratorio de diseño y optimización de operaciones",
+    "horasClase": 0,
+    "horasLaboratorio": 3,
+    "unidades": 4.0,
+    "creditosAcademicos": 1.5,
+    "unidadesDeCarga": 2.6
+  },
+  {
+    "clave": "IN3040",
+    "nombre": "Sistemas de innovación tecnológica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3041",
+    "nombre": "Viabilidad de proyectos",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3020",
+    "nombre": "Planeación estratégica",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3043",
+    "nombre": "Estrategias de administración de la calidad",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3044",
+    "nombre": "Proyecto de ingeniería industrial y de sistemas",
+    "horasClase": 3,
+    "horasLaboratorio": 0,
+    "unidades": 8.0,
+    "creditosAcademicos": 3.0,
+    "unidadesDeCarga": 3.5
+  },
+  {
+    "clave": "IN3045",
+    "nombre": "Introducción a la vida profesional",
+    "horasClase": 2,
+    "horasLaboratorio": 0,
+    "unidades": 2.0,
+    "creditosAcademicos": 0.8,
+    "unidadesDeCarga": 2.3
   }
 ]

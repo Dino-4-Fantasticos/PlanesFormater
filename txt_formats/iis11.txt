@@ -1,0 +1,88 @@
+Ingeniero Industrial y de Sistemas
+Primer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS1003	Ciencias naturales y desarrollo sustentable	3	0	8	3	3.5
+F1002	Física I	3	1	8	3	4.7
+H1016	Lengua extranjera	5	0	8	3	3.5
+H1040	Análisis y expresión verbal	5	0	8	3	5.8
+IN1003	Introducción a la ingeniería industrial	3	0	4	1.5	3.5
+MA1015	Matemáticas I	3	0	8	3	3.5
+Q1001	Química	3	0	8	3	3.5
+25	1	52	19.5	28
+Segundo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+F1003	Física II	3	1	8	3	4.7
+H1018	Ética, persona y sociedad	3	0	8	3	3.5
+HS2000	Humanidades y bellas artes	3	0	8	3	3.5
+M1003	Estática	3	0	8	3	3.5
+MA1017	Matemáticas II	3	0	8	3	3.5
+Q1004	Laboratorio de química	0	3	4	1.5	2.6
+TC1017	Solución de problemas con programación	3	0	8	3	3.5
+18	4	52	19.5	24.8
+Tercer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+F1005	Electricidad y magnetismo	3	1	8	3	4.7
+IQ1001	Balance de materia	3	0	8	3	3.5
+M1006	Dibujo computarizado	3	0	8	3	3.5
+M2024	Procesos de manufactura	3	0	8	3	3.5
+MA1020	Estadística I	3	0	8	3	3.5
+MA2009	Matemáticas III	3	0	8	3	3.5
+18	1	48	18	22.2
+Cuarto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+H2001	Expresión verbal en el ámbito profesional	3	0	8	3	3.5
+IN2017	Diseño de instalaciones y manejo de materiales	3	0	8	3	3.5
+IN2018	Diseño del trabajo	3	0	8	3	3.5
+IN2019	Laboratorio de metrología	0	3	4	1.5	2.6
+M2025	Métodos numéricos en ingeniería	3	0	8	3	3.5
+MA2010	Ecuaciones diferenciales	3	0	8	3	3.5
+MA2011	Estadística II	3	0	8	3	3.5
+18	3	52	19.5	23.6
+Quinto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+CF1010	Contabilidad y administración de costos	3	0	8	3	3.5
+EC1010	Economía para la creación de negocios	3	0	8	3	3.5
+IN2004	Control estadístico de la calidad	3	0	8	3	3.5
+IN2020	Administración de inventarios	3	0	8	3	3.5
+IN2021	Administración de la producción	3	0	8	3	3.5
+IN2022	Modelos de optimización	3	0	8	3	3.5
+18	0	48	18	21
+Sexto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+EM1005	Emprendimiento	3	0	8	3	3.5
+IN1002	Laboratorio de ingeniería de sistemas	0	3	4	1.5	2.6
+IN2023	Diseño y análisis de experimentos	3	0	8	3	3.5
+IN2024	Modelos para la toma de decisiones	3	0	8	3	3.5
+IN3013	Laboratorio de sistemas integrados de manufactura	0	3	4	1.5	2.6
+IN3015	Sistemas integrados de manufactura	3	0	8	3	3.5
+IN3035	Análisis y mejoramiento de sistemas de manufactura	3	0	8	3	3.5
+15	6	48	18	22.7
+Séptimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+HS2005	Ciudadanía	3	0	8	3	3.5
+IN2005	Dinámica de sistemas	3	0	8	3	3.5
+IN2025	Evaluación y administración de proyectos	3	0	8	3	3.5
+IN2026	Ingeniería estadística	3	0	8	3	3.5
+IN2027	Simulación de eventos discretos	3	0	8	3	3.5
+IN2028	Sistemas de conocimiento en las organizaciones	3	0	8	3	3.5
+18	0	48	18	21
+Octavo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+IN3037	Diseño y mejoramiento de sistemas logísticos	3	0	8	3	3.5
+IN3038	Laboratorio de diseño y optimización de operaciones	0	3	4	1.5	2.6
+IN3039	Metodologías para la solución de problemas	3	0	8	3	3.5
+IN3040	Sistemas de innovación tecnológica	3	0	8	3	3.5
+IN3041	Viabilidad de proyectos	3	0	8	3	3.5
+VA2010	Tópicos I	3	0	8	3
+VA2011	Tópicos II	3	0	8	3
+18	3	52	19.5	16.6
+Noveno Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+HS2006	Ética aplicada	3	0	8	3	3.5
+IN3020	Planeación estratégica	3	0	8	3	3.5
+IN3043	Estrategias de administración de la calidad	3	0	8	3	3.5
+IN3044	Proyecto de ingeniería industrial y de sistemas	3	0	8	3	3.5
+IN3045	Introducción a la vida profesional	2	0	2	.8	2.3
+VA2012	Tópicos III	3	0	8	3
+VA2013	Tópicos IV	3	0	8	3
+20	0	50	18.8	16.3

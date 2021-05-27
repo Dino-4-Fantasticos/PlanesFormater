@@ -1,0 +1,84 @@
+Licenciado en Animación y Arte Digital
+Primer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR1013	Dibujo	4	0	8	3	4.7
+AR1014	Geometría descriptiva	3	0	8	3	3.5
+AT1003	Introducción a la carrera de LAD	3	0	4	1.5	3.5
+DL1002	Fundamentos del diseño I	4	0	8	3	4.7
+H1016	Lengua extranjera	5	0	8	3	3.5
+TC1003	Matemáticas discretas	3	0	8	3	3.5
+TC1014	Fundamentos de programación	3	0	8	3	3.5
+25	0	52	19.5	26.9
+Segundo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AT1001	Dibujo artístico	4	0	8	3	4.7
+CO1007	Comunicación, signos y significación	3	0	8	3	3.5
+DL1004	Fundamentos del diseño II	4	0	8	3	4.7
+H1040	Análisis y expresión verbal	5	0	8	3	5.8
+MA1009	Matemáticas para el diseño	3	0	8	3	3.5
+TC2016	Programación orientada a objetos	3	0	8	3	3.5
+22	0	48	18	25.7
+Tercer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+A1000	Taller de exploración de la forma I	4	0	8	3	4.7
+AT1002	Fundamentos de animación	3	0	8	3	3.5
+AV1000	Fotografía e imagen digital	3	0	8	3	3.5
+DL1009	Creatividad e innovación	3	0	8	3	3.5
+F2001	Física para el diseño	3	0	8	3	3.5
+TC1018	Estructura de datos	3	0	8	3	3.5
+19	0	48	18	22.2
+Cuarto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+A2001	Taller de exploración de la forma II	4	0	8	3	4.7
+AT2000	Modelación digital	3	0	8	3	3.5
+AV1004	Lenguaje y narrativa audiovisual	3	0	8	3	3.5
+H2001	Expresión verbal en el ámbito profesional	3	0	8	3	3.5
+MA1021	Matemáticas aplicadas	3	0	8	3	3.5
+TC1015	Fundamentos de diseño interactivo	3	0	8	3	3.5
+19	0	48	18	22.2
+Quinto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+A1002	Estética	3	0	8	3	3.5
+AT2005	Animación 3D	3	0	8	3	3.5
+H1018	Ética, persona y sociedad	3	0	8	3	3.5
+H1032	Identidad y cultura mexicana	3	0	8	3	3.5
+H1048	Estructuras narrativas	3	0	8	3	3.5
+TC1021	Proyecto de desarrollo de videojuegos	3	0	8	3	3.5
+18	0	48	18	21
+Sexto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AT2006	Teoría y práctica del sonido	3	0	8	3	3.5
+AT3001	Modelación digital avanzada	3	0	8	3	3.5
+AV2004	Guionismo	3	0	8	3	3.5
+DL2026	Técnicas avanzadas de representación digital	3	0	8	3	3.5
+H2003	Arte contemporáneo y sociedad	3	0	8	3	3.5
+TC3022	Gráficas computacionales	3	0	8	3	3.5
+18	0	48	18	21
+Séptimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AD2014	Negocios en la industria de la música y el entretenimiento	3	0	8	3	3.5
+AT2007	Ambientes virtuales	3	0	8	3	3.5
+AT3002	Animación 3D avanzada	3	0	8	3	3.5
+AT3003	Producción de efectos visuales para medios digitales	3	0	8	3	3.5
+AV2006	Diseño y producción de narrativas audiovisuales	3	0	8	3	3.5
+EM1005	Emprendimiento	3	0	8	3	3.5
+18	0	48	18	21
+Octavo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AV2009	Administración y evaluación de proyectos de medios	3	0	8	3	3.5
+HS2005	Ciudadanía	3	0	8	3	3.5
+TC3028	Interfaces físicas	3	0	8	3	3.5
+VA2010	Tópicos I	3	0	8	3
+VA2011	Tópicos II	3	0	8	3
+VA2012	Tópicos III	3	0	8	3
+18	0	48	18	10.5
+Noveno Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AT3004	Proyecto integrador de arte y tecnología	3	0	8	3	3.5
+AT3005	Introducción a la vida profesional	2	0	2	.8	2.3
+AV3010	Realización cinematográfica	3	0	8	3	3.5
+D1025	Normatividad de la comunicación	3	0	8	3	3.5
+HS2006	Ética aplicada	3	0	8	3	3.5
+VA2013	Tópicos IV	3	0	8	3
+VA2014	Tópicos V	3	0	8	3
+20	0	50	18.8	16.3

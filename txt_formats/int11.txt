@@ -1,0 +1,84 @@
+Ingeniero en Negocios y Tecnologías de la Información
+Primer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AD1005	Administración e innovación en modelos de negocios	3	0	8	3	3.5
+DS1003	Ciencias naturales y desarrollo sustentable	3	0	8	3	3.5
+H1016	Lengua extranjera	5	0	8	3	3.5
+H1040	Análisis y expresión verbal	5	0	8	3	5.8
+MA1015	Matemáticas I	3	0	8	3	3.5
+TC1014	Fundamentos de programación	3	0	8	3	3.5
+TI1013	Introducción a la ingeniería en negocios y tecnologías de información	3	0	4	1.5	3.5
+25	0	52	19.5	26.8
+Segundo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+F1002	Física I	3	1	8	3	4.7
+H1018	Ética, persona y sociedad	3	0	8	3	3.5
+H2001	Expresión verbal en el ámbito profesional	3	0	8	3	3.5
+MA1017	Matemáticas II	3	0	8	3	3.5
+RH1000	Comportamiento organizacional y desarrollo del talento humano	3	0	8	3	3.5
+TC2016	Programación orientada a objetos	3	0	8	3	3.5
+18	1	48	18	22.2
+Tercer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+CF1010	Contabilidad y administración de costos	3	0	8	3	3.5
+MA1006	Probabilidad y estadística	3	0	8	3	3.5
+MA2009	Matemáticas III	3	0	8	3	3.5
+TC1016	Organización computacional	3	1	8	3	4.7
+TC1019	Fundamentos de ingeniería de software	3	0	8	3	3.5
+TI1010	Creatividad e innovación para la solución de problemas	3	0	8	3	3.5
+18	1	48	18	22.2
+Cuarto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+FZ1005	Matemáticas financieras	3	0	8	3	3.5
+MA2010	Ecuaciones diferenciales	3	0	8	3	3.5
+TC1020	Bases de datos	3	0	8	3	3.5
+TC2018	Fundamentos de redes	3	1	8	3	4.7
+TC2019	Métodos numéricos en ingeniería	3	0	8	3	3.5
+TI1011	Procesos de comercialización	3	0	8	3	3.5
+18	1	48	18	22.2
+Quinto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+EM1005	Emprendimiento	3	0	8	3	3.5
+HS2000	Humanidades y bellas artes	3	0	8	3	3.5
+IN2004	Control estadístico de la calidad	3	0	8	3	3.5
+IN2022	Modelos de optimización	3	0	8	3	3.5
+TC2009	Uso y administración de sistemas operativos	3	0	8	3	3.5
+TI2002	Administración de procesos de negocios	3	0	8	3	3.5
+18	0	48	18	21
+Sexto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+FZ1006	Finanzas personales y empresariales	3	0	8	3	3.5
+IN1002	Laboratorio de ingeniería de sistemas	0	3	4	1.5	2.6
+IN2020	Administración de inventarios	3	0	8	3	3.5
+IN2023	Diseño y análisis de experimentos	3	0	8	3	3.5
+TI2010	Proyecto integrador I	3	0	8	3	3.5
+TI2011	Evaluación y administración de proyectos	3	0	8	3	3.5
+TI3030	Administración de la información	3	0	8	3	3.5
+18	3	52	19.5	23.6
+Séptimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+HS2005	Ciudadanía	3	0	8	3	3.5
+IN2005	Dinámica de sistemas	3	0	8	3	3.5
+IN2021	Administración de la producción	3	0	8	3	3.5
+TC2007	Métodos cuantitativos y simulación	3	0	8	3	3.5
+TI3031	Administración estratégica de tecnologías de información	3	0	8	3	3.5
+TI3032	Sistemas de información empresarial	3	1	8	3	4.7
+18	1	48	18	22.2
+Octavo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AD3002	Consultoría administrativa	3	0	8	3	3.5
+IN3039	Metodologías para la solución de problemas	3	0	8	3	3.5
+TI3028	Administración del cambio	3	0	8	3	3.5
+TI3033	Gobernabilidad de tecnologías de información	3	0	8	3	3.5
+VA2010	Tópicos I	3	0	8	3
+VA2011	Tópicos II	3	0	8	3
+18	0	48	18	14
+Noveno Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+HS2006	Ética aplicada	3	0	8	3	3.5
+TC3011	Administración de servicios de tecnologías de información	3	0	8	3	3.5
+TI3029	Proyecto integrador II	3	0	8	3	3.5
+TI3034	Inteligencia de negocios	3	1	8	3	4.7
+TI3035	Introducción a la vida profesional	2	0	2	.8	2.3
+VA2012	Tópicos III	3	0	8	3
+VA2013	Tópicos IV	3	0	8	3

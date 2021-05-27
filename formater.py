@@ -71,7 +71,7 @@ def generate_json(line, materias_semestre):
             "nombre": attributes[1],
             "horasClase": int(attributes[2]),
             "horasLaboratorio": int(attributes[3]),
-            "unidades": int(attributes[4]),
+            "unidades": float(attributes[4]),
             "creditosAcademicos": float(attributes[5]),
         }
 
@@ -172,7 +172,7 @@ def read_samp_file():
     for file_name in file_names:
         file = open(file_name, "r")
 
-        nombre_plan = file_name.replace(".txt", "").replace("./samp/", "").upper()
+        nombre_plan = file_name.replace(".txt", "").replace("./txt_formats/", "").upper()
 
         if nombre_plan in planes_nombres:
             continue

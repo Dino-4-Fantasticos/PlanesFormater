@@ -1,39 +1,5 @@
 [
   {
-    "siglas": "LRI11",
-    "nombre": "Licenciatura en Relaciones Internacionales",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
-    ]
-  },
-  {
-    "siglas": "IIS11",
-    "nombre": "Ingeniería Industrial y de Sistemas",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
-    ]
-  },
-  {
     "siglas": "LCMD17",
     "nombre": "Licenciatura en Comunicación y Medios Digitales",
     "esVigente": true,
@@ -234,22 +200,6 @@
           "clave": "VA3106"
         }
       ]
-    ]
-  },
-  {
-    "siglas": "ITC19",
-    "nombre": "Ingeniería en Tecnologías Computacionales",
-    "esVigente": true,
-    "esTec21": true,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
     ]
   },
   {
@@ -1465,23 +1415,6 @@
     ]
   },
   {
-    "siglas": "INT11",
-    "nombre": "Ingeniería en Negocios y Tecnologías de Información",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
-    ]
-  },
-  {
     "siglas": "IIA11",
     "nombre": "Ingeniería en Industrias Alimentarias",
     "esVigente": true,
@@ -1894,40 +1827,6 @@
           "clave": "VA2015"
         }
       ]
-    ]
-  },
-  {
-    "siglas": "LDI11",
-    "nombre": "Licenciatura en Diseño",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
-    ]
-  },
-  {
-    "siglas": "LAD11",
-    "nombre": "Licenciatura en Animación y Arte Digital",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
     ]
   },
   {
@@ -4149,23 +4048,6 @@
     ]
   },
   {
-    "siglas": "IMI11",
-    "nombre": "Ingeniería en Producción Musical Digital",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
-    ]
-  },
-  {
     "siglas": "IID12",
     "nombre": "Ingeniería en Innovación y Desarrollo",
     "esVigente": true,
@@ -4551,23 +4433,6 @@
           "clave": "VA2015"
         }
       ]
-    ]
-  },
-  {
-    "siglas": "IDS11",
-    "nombre": "Ingeniería en Desarrollo Sustentable",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
     ]
   },
   {
@@ -6366,24 +6231,6 @@
           "clave": "VA2015"
         }
       ]
-    ]
-  },
-  {
-    "siglas": "ARQ11",
-    "nombre": "Arquitectura",
-    "esVigente": true,
-    "esTec21": false,
-    "materias": [
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      [],
-      []
     ]
   },
   {

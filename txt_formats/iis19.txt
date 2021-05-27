@@ -1,0 +1,193 @@
+Ingeniero Industrial y de Sistemas
+Primer Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1001	Optativa de matemáticas y ciencias
+3	1	8	3	0
+F1001B	Modelación de la ingeniería y ciencias
+9	3	8	3	3
+F1006B	Modelación del movimiento en ingeniería
+9	3	8	3	3
+F1007B	Aplicación de las leyes de conservación en sistemas ingenieriles
+9	3	8	3	3
+MA1028	Modelación matemática fundamental
+3	1	5.3	2	2
+Q1019	Análisis de la estructura, propiedades y transformación de la materia
+6	2	5.3	2	2
+TC1028	Pensamiento computacional para ingeniería
+3	1	5.3	2	2
+Segundo Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1002	Optativa de humanidades y bellas artes
+3	1	8	3	0
+F1008	Experimentación física y pensamiento estadístico
+3	1	2.7	1	1
+F1015B	Aplicación de la termodinámica en sistemas ingenieriles
+9	3	8	3	3
+F1016B	Análisis de sistemas eléctricos en sistemas ingenieriles
+9	3	8	3	3
+F1017B	Análisis de sistemas electromagnéticos en sistemas ingenieriles
+9	3	8	3	3
+MA1029	Modelación matemática intermedia
+3	1	5.3	2	2
+MA1030	Modelación matricial
+3	1	2.7	1	1
+MA1031	Análisis estadístico
+3	1	2.7	1	1
+Q1021	Experimentación química y pensamiento estadístico fundamental
+3	1	2.7	1	1
+Tercer Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1003	Optativa de ciencias sociales y del comportamiento
+3	1	8	3	0
+IN1001B	Diseño y análisis de experimentos para la innovación ingenieril
+9	3	8	3	3
+IN1002B	Desarrollo de proyectos de análisis de datos
+9	3	8	3	3
+M1011	Análisis de equilibrio estático
+3	1	5.3	2	2
+MA1034	Modelación de procesos mediante algebra lineal
+3	1	2.7	1
+MA1035	Modelación en ingeniería mediante sistemas dinámicos
+3	1	5.3	2	2
+TE1020	Análisis de circuitos eléctricos
+3	1	2.7	1	1
+VA1001B	Tópico de exploración
+9	3	8	3	0
+Cuarto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1004	Optativa de liderazgo, emprendimiento e innovación
+3	1	8	3	0
+IN2001B	Desarrollo de proyectos con visión sistémica
+12	4	10.7	4	4
+IN2002B	Mejora de un proceso organizacional con métodos estadísticos
+12	4	10.7	4	4
+IN2003B	Conceptualización de procesos con enfoque innovador
+12	4	10.7	4	4
+IN2032	Análisis estadístico de datos
+3	1	2.7	1	1
+IN2037	Diseño de sistemas ciberfísicos
+3	1	2.7	1	1
+IN2038	Evaluación económica de proyectos
+3	1	2.7	1	1
+Quinto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+EG1005	Optativa de ética y ciudadanía
+3	1	8	3	0
+IN2004B	Generación de valor con analítica de datos
+12	4	10.7	4	4
+IN2005B	Evaluación de la competitividad organizacional
+12	4	10.7	4	4
+IN2006B	Análisis de la viabilidad de proyectos con perspectiva sistémica
+12	4	10.7	4	4
+IN2039	Visualización de datos para la toma de decisiones
+3	1	2.7	1	1
+IN2040	Optimización de procesos organizacionales
+3	1	2.7	1	1
+IN2041	Mejora de procesos con métodos heurísticos y metaheurísticos
+3	1	2.7	1	1
+Sexto Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+IN2007B	Diseño disruptivo de procesos organizacionales
+15	5	13.3	5	5
+IN2008B	Aseguramiento de la excelencia operacional
+15	5	13.3	5	5
+IN2009B	Mejora de una cadena de valor adaptativa
+15	5	13.3	5	5
+IN2042	Modelación de la cadena de valor
+3	1	2.7	1	1
+IN2043	Simulación discreta, continua y por agentes
+3	1	2.7	1	1
+IN2044	Diseño de un proceso de consultoría y gestión del cambio
+3	1	2.7	1	1
+Séptimo Semestre  (1)
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+OP3091	Optativa Profesional I
+3	1	8	3	0
+OP3092	Optativa Profesional II
+3	1	8	3	0
+OP3093	Optativa profesional III
+3	1	8	3	0
+OP3094	Optativa profesional IV
+3	1	8	3	0
+OP3095	Optativa profesional V
+3	1	8	3	0
+OP3096	Optativa profesional VI
+3	1	8	3	0
+Octavo Semestre
+Unidad de formación
+Semana 1-6
+Semana 7-12
+Semana 13-18
+CL
+A
+U
+CA
+UDC
+Clave	Descripción
+IN3001B	Diseño de un sistema organizacional inteligente
+18	6	32	12	12
+OP3001B	Optativa profesional multidisciplinaria
+18	6	16	6	0

@@ -1,0 +1,84 @@
+Licenciado en Diseño Industrial
+Primer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR1013	Dibujo	4	0	8	3	4.7
+AR1014	Geometría descriptiva	3	0	8	3	3.5
+DL1002	Fundamentos del diseño I	4	0	8	3	4.7
+DL1008	Modelos y maquetas	3	0	8	3	3.5
+DL1014	Introducción al diseño	3	0	4	1.5	3.5
+H1016	Lengua extranjera	5	0	8	3	3.5
+MA1009	Matemáticas para el diseño	3	0	8	3	3.5
+25	0	52	19.5	26.9
+Segundo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AR1016	Geometría aplicada	3	0	8	3	3.5
+AT1001	Dibujo artístico	4	0	8	3	4.7
+DL1004	Fundamentos del diseño II	4	0	8	3	4.7
+DL1009	Creatividad e innovación	3	0	8	3	3.5
+DL1010	Taller de modelos y prototipos I	3	0	8	3	3.5
+H1040	Análisis y expresión verbal	5	0	8	3	5.8
+22	0	48	18	25.7
+Tercer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DL1011	Diseño de producto	3	0	8	3	3.5
+DL1012	Ergonomía para el diseño	3	0	8	3	3.5
+DL1013	Métodos de diseño y etnografía	3	0	8	3	3.5
+DS1003	Ciencias naturales y desarrollo sustentable	3	0	8	3	3.5
+F2001	Física para el diseño	3	0	8	3	3.5
+M1006	Dibujo computarizado	3	0	8	3	3.5
+18	0	48	18	21
+Cuarto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AT2000	Modelación digital	3	0	8	3	3.5
+AV1004	Lenguaje y narrativa audiovisual	3	0	8	3	3.5
+DL2019	Diseño de productos y servicios	6	0	12	4.5	7
+H1018	Ética, persona y sociedad	3	0	8	3	3.5
+H2001	Expresión verbal en el ámbito profesional	3	0	8	3	3.5
+M2024	Procesos de manufactura	3	0	8	3	3.5
+21	0	52	19.5	24.5
+Quinto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DL2020	Diseño centrado en el usuario	3	0	8	3	3.5
+DL2021	Diseño de experiencias I	3	0	8	3	3.5
+DL2022	Modelación digital avanzada	3	0	8	3	3.5
+DL2023	Taller de modelos y prototipos II	3	0	8	3	3.5
+H1032	Identidad y cultura mexicana	3	0	8	3	3.5
+M2032	Tecnología de materiales	3	0	8	3	3.5
+18	0	48	18	21
+Sexto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DL2024	Diseño de experiencias II	3	0	8	3	3.5
+DL2025	Lenguaje y significado de los objetos	3	0	8	3	3.5
+DL2026	Técnicas avanzadas de representación digital	3	0	8	3	3.5
+HS2005	Ciudadanía	3	0	8	3	3.5
+M3034	Prototipaje computarizado	3	0	8	3	3.5
+VA2010	Tópicos I	3	0	8	3
+18	0	48	18	17.5
+Séptimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DL2027	Prospectiva del diseño industrial	3	0	8	3	3.5
+DL3014	Diseño de productos y sistemas I	6	0	12	4.5	7
+EM1005	Emprendimiento	3	0	8	3	3.5
+IN2030	Modelos de manufactura	3	0	8	3	3.5
+VA2011	Tópicos II	3	0	8	3
+VA2012	Tópicos III	3	0	8	3
+21	0	52	19.5	17.5
+Octavo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AD3024	Planeación, innovación y sustentabilidad estratégica	3	0	8	3	3.5
+DL3015	Diseño de productos y sistemas II	6	0	12	4.5	7
+DL3016	Innovación, diseño y entorno de negocios	3	0	8	3	3.5
+IN2025	Evaluación y administración de proyectos	3	0	8	3	3.5
+VA2013	Tópicos IV	3	0	8	3
+VA2014	Tópicos V	3	0	8	3
+21	0	52	19.5	17.5
+Noveno Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+AD2012	Prospectiva estratégica de negocios	3	0	8	3	3.5
+AD3023	Innovación de modelos de negocio y gestión de empresas familiares	3	0	8	3	3.5
+DL3017	Proyecto de inserción profesional	3	0	8	3	3.5
+DL3018	Introducción a la vida profesional	2	0	2	.8	2.3
+HS2006	Ética aplicada	3	0	8	3	3.5
+MT3023	Desarrollo de productos y marcas globales	3	0	8	3	3.5
+VA2015	Tópicos VI	3	0	8	3
+20	0	50	18.8	19.8

@@ -1,0 +1,87 @@
+Ingeniero en Desarrollo Sustentable
+Primer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS1003	Ciencias naturales y desarrollo sustentable	3	0	8	3	3.5
+DS1006	Introducción a la ingeniería en desarrollo sustentable	3	0	4	1.5	3.5
+F1002	Física I	3	1	8	3	4.7
+H1016	Lengua extranjera	5	0	8	3	3.5
+H1040	Análisis y expresión verbal	5	0	8	3	5.8
+MA1015	Matemáticas I	3	0	8	3	3.5
+Q1001	Química	3	0	8	3	3.5
+25	1	52	19.5	28
+Segundo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS1002	Ecosistemas y biodiversidad	3	0	8	3	3.5
+F1003	Física II	3	1	8	3	4.7
+H1018	Ética, persona y sociedad	3	0	8	3	3.5
+H2001	Expresión verbal en el ámbito profesional	3	0	8	3	3.5
+MA1017	Matemáticas II	3	0	8	3	3.5
+Q1004	Laboratorio de química	0	3	4	1.5	2.6
+TC1017	Solución de problemas con programación	3	0	8	3	3.5
+18	4	52	19.5	24.8
+Tercer Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS1004	Fundamentos del desarrollo sustentable	3	0	8	3	3.5
+F1005	Electricidad y magnetismo	3	1	8	3	4.7
+HS2000	Humanidades y bellas artes	3	0	8	3	3.5
+IQ1001	Balance de materia	3	0	8	3	3.5
+MA1006	Probabilidad y estadística	3	0	8	3	3.5
+MA2009	Matemáticas III	3	0	8	3	3.5
+18	1	48	18	22.2
+Cuarto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+IQ2000	Balance de energía	3	0	8	3	3.5
+IQ2001	Termodinámica	3	0	8	3	3.5
+M1003	Estática	3	0	8	3	3.5
+M2025	Métodos numéricos en ingeniería	3	0	8	3	3.5
+MA2010	Ecuaciones diferenciales	3	0	8	3	3.5
+TE1002	Circuitos eléctricos I	3	0	8	3	3.5
+18	0	48	18	21
+Quinto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+CV2030	Uso sustentable del agua I	3	0	8	3	3.5
+EC1010	Economía para la creación de negocios	3	0	8	3	3.5
+IN2023	Diseño y análisis de experimentos	3	0	8	3	3.5
+IQ2005	Operaciones de transferencia de momentum	3	0	8	3	3.5
+RH1000	Comportamiento organizacional y desarrollo del talento humano	3	0	8	3	3.5
+TE1014	Laboratorio de circuitos eléctricos y mediciones	0	3	4	1.5	2.6
+TE2032	Circuitos eléctricos II	3	0	8	3	3.5
+18	3	52	19.5	23.6
+Sexto Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS2001	Ecología industrial	3	0	8	3	3.5
+DS3002	Manejo de recursos naturales y cambio climático	3	0	8	3	3.5
+IN2025	Evaluación y administración de proyectos	3	0	8	3	3.5
+IQ2004	Operaciones de transferencia de calor	3	0	8	3	3.5
+RI2034	Negociación y manejo de conflictos	3	0	8	3	3.5
+VA2010	Tópicos I	3	0	8	3
+18	0	48	18	17.5
+Séptimo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS3003	Responsabilidad social y sustentabilidad corporativa	3	0	8	3	3.5
+EM1005	Emprendimiento	3	0	8	3	3.5
+F3024	Energías alternas	3	0	8	3	3.5
+IQ3004	Ecoeficiencia y procesos sustentables	3	0	8	3	3.5
+M2003	Sistemas para la generación de energía	3	0	8	3	3.5
+VA2011	Tópicos II	3	0	8	3
+18	0	48	18	17.5
+Octavo Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS3004	Negocios y conservación de ecosistemas	3	0	8	3	3.5
+HS2005	Ciudadanía	3	0	8	3	3.5
+IQ3032	Tecnologías para el uso eficiente de energía térmica	3	0	8	3	3.5
+TE2029	Laboratorio de administración y monitoreo de energía	0	3	4	1.5	2.6
+TE3053	Sistemas para la distribución de la energía	3	0	8	3	3.5
+VA2012	Tópicos III	3	0	8	3
+VA2013	Tópicos IV	3	0	8	3
+18	3	52	19.5	16.6
+Noveno Semestre
+Clave	Nombre	CL	L	U	CA	UDC
+DS3005	Proyecto integrador en desarrollo sustentable	3	0	8	3	3.5
+DS3006	Introducción a la vida profesional	2	0	2	.8	2.3
+HS2006	Ética aplicada	3	0	8	3	3.5
+TE2042	Tecnologías para el uso eficiente de energía eléctrica	3	0	8	3	3.5
+TE3052	Administración de los proyectos energéticos	3	0	8	3	3.5
+VA2014	Tópicos V	3	0	8	3
+VA2015	Tópicos VI	3	0	8	3
+20	0	50	18.8	16.3
